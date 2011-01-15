@@ -1359,14 +1359,16 @@ $messages['zh-hans'] = array(
 	'ajax-se-usernotfound' => '错误:该用户不存在',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬) */
+/** Traditional Chinese (‪中文(繁體)‬)
+ * @author Mark85296341
+ */
 $messages['zh-hant'] = array(
 	'ajaxshoweditors-desc' => '列出正在編輯同一個頁面的使用者',
-	'ajax-se-title' => '目前編輯中:',
+	'ajax-se-title' => '目前編輯：',
 	'ajax-se-pending' => '正在重新整理 ... （按一下這個框開始編輯）',
 	'ajax-se-idling' => '（$1秒前）',
 	'ajax-se-pagedoesnotexist' => '該頁面不存在',
-	'ajax-se-userinvalid' => '錯誤:該使用者不正確',
-	'ajax-se-usernotfound' => '錯誤:該使用者不存在',
+	'ajax-se-userinvalid' => '錯誤：該使用者不正確',
+	'ajax-se-usernotfound' => '錯誤：該使用者不存在',
 );
 
