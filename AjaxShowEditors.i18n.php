@@ -109,7 +109,7 @@ $messages['avk'] = array(
 	'ajax-se-usernotfound' => 'ROKLA : metrasin favesik',
 );
 
-/** Bashkir (Башҡорт)
+/** Bashkir (Башҡортса)
  * @author Assele
  */
 $messages['ba'] = array(
@@ -131,7 +131,7 @@ $messages['bcl'] = array(
 	'ajax-se-idling' => '($1s na an nakaagi)',
 );
 
-/** Belarusian (Taraškievica orthography) (Беларуская (тарашкевіца))
+/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -269,7 +269,7 @@ $messages['de'] = array(
 	'ajax-se-usernotfound' => 'Fehler: Benutzer wurde nicht gefunden',
 );
 
-/** German (formal address) (Deutsch (Sie-Form))
+/** German (formal address) (‪Deutsch (Sie-Form)‬)
  * @author Imre
  */
 $messages['de-formal'] = array(
@@ -1099,7 +1099,7 @@ $messages['sl'] = array(
 	'ajax-se-usernotfound' => 'Napaka: uporabnika ni mogoče najti',
 );
 
-/** Serbian Cyrillic ekavian (Српски (ћирилица))
+/** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
  * @author Sasa Stefanovic
  */
 $messages['sr-ec'] = array(
@@ -1112,7 +1112,7 @@ $messages['sr-ec'] = array(
 	'ajax-se-usernotfound' => 'ГРЕШКА: корисник није пронађен',
 );
 
-/** Serbian Latin ekavian (Srpski (latinica))
+/** Serbian Latin ekavian (‪Srpski (latinica)‬)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -1370,5 +1370,17 @@ $messages['zh-hant'] = array(
 	'ajax-se-pagedoesnotexist' => '該頁面不存在',
 	'ajax-se-userinvalid' => '錯誤：該使用者不正確',
 	'ajax-se-usernotfound' => '錯誤：該使用者不存在',
+);
+
+/** Chinese (Hong Kong) (‪中文(香港)‬)
+ * @author Oapbtommy
+ */
+$messages['zh-hk'] = array(
+	'ajaxshoweditors-desc' => '顯示正在編輯同一頁面的編輯中的用戶',
+	'ajax-se-title' => '正在編輯：',
+	'ajax-se-pending' => '重新整理請求中...（點擊這個方塊或開始編輯）',
+	'ajax-se-idling' => '（$1s 前）',
+	'ajax-se-userinvalid' => '錯誤：用戶無效',
+	'ajax-se-usernotfound' => '錯誤：用戶找不到',
 );
 
