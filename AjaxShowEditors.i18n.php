@@ -864,11 +864,12 @@ $messages['nds'] = array(
 );
 
 /** Nepali (नेपाली)
+ * @author Bhawani Gautam Rhk
  * @author सरोज कुमार ढकाल
  */
 $messages['ne'] = array(
 	'ajaxshoweditors-desc' => 'सम्पादन गरिरहेका प्रयोगकर्ताहरु देखाउ छ जो उही पृष्ठ सम्पादन गरिरहेका छन् ।',
-	'ajax-se-title' => 'अहिले सम्पादन भैरहेको:',
+	'ajax-se-title' => 'अहिले सम्पादन भइरहेको:',
 	'ajax-se-pending' => 'ताजा पार्न बाँकी ....(यो बट्टामा क्लिक गर्नुहोस् या सम्पादन सुरु गर्नुहोस)',
 	'ajax-se-idling' => '($1से पहिले)',
 	'ajax-se-pagedoesnotexist' => 'पृष्ठ अस्तित्वमा रहेको छैन',
