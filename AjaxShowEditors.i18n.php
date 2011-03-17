@@ -844,9 +844,10 @@ $messages['myv'] = array(
 
 /** Nahuatl (Nāhuatl)
  * @author Fluence
+ * @author Teòtlalili
  */
 $messages['nah'] = array(
-	'ajax-se-title' => 'Āxcān ticpatlacah:',
+	'ajax-se-title' => 'Àxkàn mopảtlatíka:',
 	'ajax-se-pagedoesnotexist' => 'zāzanilli ahmo ia',
 );
 
