@@ -14,19 +14,13 @@ $wgAjaxExportList[] = 'wfAjaxShowEditors';
  * @author Tim Starling
  */
 function wfAjaxShowEditors( $articleId, $username ) {
-	global $wgOut;
-
 	$articleId = intval( $articleId );
 
 	// Validate request
 	$title = Title::newFromID( $articleId );
 	if ( !( $title ) ) { return wfMsg( 'ajax-se-pagedoesnotexist' ); }
 
-	$user = User::newFromSession() ;
-	if ( !$user ) { return wfMsg( 'ajax-se-userinvalid' ); }
-
-	$username = $user->getName();
-	if ( !(  $user->isLoggedIn() or User::isIP( $username )  ) ) { return wfMsg( 'ajax-se-usernotfound' ); }
+	if ( User::idFromName( $username ) === null ) { return wfMsg( 'ajax-se-usernotfound' ); }
 
 
 	// When did the user started editing ?
