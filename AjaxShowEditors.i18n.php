@@ -1102,6 +1102,7 @@ $messages['sl'] = array(
 );
 
 /** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
+ * @author Rancher
  * @author Sasa Stefanovic
  */
 $messages['sr-ec'] = array(
@@ -1110,7 +1111,7 @@ $messages['sr-ec'] = array(
 	'ajax-se-pending' => 'чека се освежавање ... (кликните овде или почните са уређивањем)',
 	'ajax-se-idling' => '(пре $1 сек)',
 	'ajax-se-pagedoesnotexist' => 'страница не постоји',
-	'ajax-se-userinvalid' => 'ГРЕШКА: корисник не постоји',
+	'ajax-se-userinvalid' => 'Грешка: непознат корисник',
 	'ajax-se-usernotfound' => 'ГРЕШКА: корисник није пронађен',
 );
 
