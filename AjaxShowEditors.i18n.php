@@ -93,11 +93,16 @@ $messages['arz'] = array(
 
 /** Asturian (Asturianu)
  * @author Esbardu
+ * @author Xuacu
  */
 $messages['ast'] = array(
+	'ajaxshoweditors-desc' => 'Amuesa a los usuarios que tan editando quién ta editando la mesma páxina',
 	'ajax-se-title' => 'Editando actualmente:',
 	'ajax-se-pending' => 'refrescu pendiente ... (calca nesti caxellu o empecipia a editar)',
 	'ajax-se-idling' => '(hai $1s)',
+	'ajax-se-pagedoesnotexist' => 'la páxina nun esiste',
+	'ajax-se-userinvalid' => 'Error: usuariu non válidu',
+	'ajax-se-usernotfound' => "Error: nun s'alcontró l'usuariu",
 );
 
 /** Kotava (Kotava)
