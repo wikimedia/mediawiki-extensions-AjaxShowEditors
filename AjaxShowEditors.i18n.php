@@ -879,8 +879,8 @@ $messages['ne'] = array(
 	'ajax-se-pending' => 'ताजा पार्न बाँकी ....(यो बट्टामा क्लिक गर्नुहोस् या सम्पादन सुरु गर्नुहोस)',
 	'ajax-se-idling' => '($1से पहिले)',
 	'ajax-se-pagedoesnotexist' => 'पृष्ठ अस्तित्वमा रहेको छैन',
-	'ajax-se-userinvalid' => 'त्रुटी : अमान्य प्रयोगकर्ता',
-	'ajax-se-usernotfound' => 'त्रुटी: प्रयोगकर्ता भेटिएन',
+	'ajax-se-userinvalid' => 'त्रुटि: अमान्य प्रयोगकर्ता',
+	'ajax-se-usernotfound' => 'त्रुटि: प्रयोगकर्ता भेटिएन',
 );
 
 /** Dutch (Nederlands)
