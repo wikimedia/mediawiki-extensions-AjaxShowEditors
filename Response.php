@@ -60,7 +60,7 @@ function wfAjaxShowEditors( $articleId, $username ) {
 		__METHOD__
 	);
 
-	$l = new Linker();
+	$l = class_exists('DummyLinker') ? new DummyLinker : new Linker;
 
 	$wikitext = '';
 	$unix_now = wfTimestamp( TS_UNIX );
@@ -90,7 +90,7 @@ function wfAjaxShowEditors( $articleId, $username ) {
 
 		$wikitext .= ' ' . $l->makeLinkObj(
 				Title::makeTitle( NS_USER, $editor->editings_user ),
-				$editor->editings_user
+				htmlspecialchars( $editor->editings_user )
 			);
 
 		$wikitext .= ' ' . wfMsg( 'ajax-se-idling', '<span>' . $idle . '</span>' );
