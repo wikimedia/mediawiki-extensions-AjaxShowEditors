@@ -752,6 +752,16 @@ $messages['lb'] = array(
 	'ajax-se-usernotfound' => 'Feeler: Benotzer net fonnt',
 );
 
+/** Lezghian (Лезги)
+ * @author Namik
+ */
+$messages['lez'] = array(
+	'ajax-se-idling' => '($1s кьулухъ)',
+	'ajax-se-pagedoesnotexist' => 'Чар аватуш',
+	'ajax-se-userinvalid' => 'Гъалатl: ишлемишчи дуьзди туш',
+	'ajax-se-usernotfound' => 'Гъалатl: ишлемишчи жагъанач',
+);
+
 /** Limburgish (Limburgs)
  * @author Ooswesthoesbes
  */
