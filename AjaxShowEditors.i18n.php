@@ -841,11 +841,17 @@ $messages['mr'] = array(
 );
 
 /** Malay (Bahasa Melayu)
+ * @author Anakmalaysia
  * @author Kurniasan
  */
 $messages['ms'] = array(
 	'ajaxshoweditors-desc' => 'Menunjukkan pengguna menyunting yang menyunting laman yang sama',
 	'ajax-se-title' => 'Sedang menyunting:',
+	'ajax-se-pending' => 'menunggu muat semula… (klik petak ini atau mula menyunting)',
+	'ajax-se-idling' => '($1s yang lalu)',
+	'ajax-se-pagedoesnotexist' => 'laman itu tidak wujud',
+	'ajax-se-userinvalid' => 'Ralat: pengguna tak sah',
+	'ajax-se-usernotfound' => 'Ralat: pengguna tidak dijumpai',
 );
 
 /** Erzya (Эрзянь)
