@@ -886,6 +886,7 @@ $messages['nds'] = array(
 );
 
 /** Nepali (नेपाली)
+ * @author Bhawani Gautam
  * @author Bhawani Gautam Rhk
  * @author सरोज कुमार ढकाल
  */
@@ -1076,7 +1077,7 @@ $messages['ru'] = array(
 	'ajax-se-usernotfound' => 'ОШБ: участник не найден',
 );
 
-/** Yakut (Саха тыла)
+/** Sakha (Саха тыла)
  * @author Bert Jickty
  */
 $messages['sah'] = array(
