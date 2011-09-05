@@ -114,6 +114,13 @@ $messages['avk'] = array(
 	'ajax-se-usernotfound' => 'ROKLA : metrasin favesik',
 );
 
+/** Azerbaijani (Azərbaycanca)
+ * @author Vago
+ */
+$messages['az'] = array(
+	'ajax-se-userinvalid' => 'Xəta:Yanlış istifadəçi',
+);
+
 /** Bashkir (Башҡортса)
  * @author Assele
  */
