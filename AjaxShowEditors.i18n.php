@@ -118,6 +118,7 @@ $messages['avk'] = array(
  * @author Vago
  */
 $messages['az'] = array(
+	'ajax-se-idling' => '($1yaş)',
 	'ajax-se-userinvalid' => 'Xəta:Yanlış istifadəçi',
 );
 
