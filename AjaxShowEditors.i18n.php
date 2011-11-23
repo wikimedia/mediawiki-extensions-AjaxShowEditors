@@ -684,14 +684,14 @@ $messages['kk-arab'] = array(
 	'ajax-se-idling' => '($1 s بۇرىن)',
 );
 
-/** Kazakh (Cyrillic) (Қазақша (Cyrillic)) */
+/** Kazakh (Cyrillic script) (‪Қазақша (кирил)‬) */
 $messages['kk-cyrl'] = array(
 	'ajax-se-title' => 'Ағымдағы өңделуде:',
 	'ajax-se-pending' => 'жаңарту күтілуде... (бұл қабышақты нұқыңыз, немесе өңдеуді бастаңыз)',
 	'ajax-se-idling' => '($1 s бұрын)',
 );
 
-/** Kazakh (Latin) (Қазақша (Latin)) */
+/** Kazakh (Latin script) (‪Qazaqşa (latın)‬) */
 $messages['kk-latn'] = array(
 	'ajax-se-title' => 'Ağımdağı öñdelwde:',
 	'ajax-se-pending' => 'jañartw kütilwde... (bul qabışaqtı nuqıñız, nemese öñdewdi bastañız)',
@@ -1132,7 +1132,7 @@ $messages['sl'] = array(
 	'ajax-se-usernotfound' => 'Napaka: uporabnika ni mogoče najti',
 );
 
-/** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
  * @author Rancher
  * @author Sasa Stefanovic
  */
@@ -1146,7 +1146,7 @@ $messages['sr-ec'] = array(
 	'ajax-se-usernotfound' => 'ГРЕШКА: корисник није пронађен',
 );
 
-/** Serbian Latin ekavian (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪Srpski (latinica)‬)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -1240,7 +1240,7 @@ $messages['te'] = array(
 	'ajax-se-usernotfound' => 'పొరపాటు: వాడుకరి కనబడలేదు',
 );
 
-/** Tajik (Cyrillic) (Тоҷикӣ (Cyrillic))
+/** Tajik (Cyrillic script) (Тоҷикӣ)
  * @author Ibrahim
  */
 $messages['tg-cyrl'] = array(
@@ -1253,7 +1253,7 @@ $messages['tg-cyrl'] = array(
 	'ajax-se-usernotfound' => 'ERR: корбар ёфт нашуд',
 );
 
-/** Tajik (Latin) (Тоҷикӣ (Latin))
+/** Tajik (Latin script) (tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
