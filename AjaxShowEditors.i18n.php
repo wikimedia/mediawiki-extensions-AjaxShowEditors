@@ -438,8 +438,8 @@ $messages['frp'] = array(
 	'ajax-se-pending' => 'actualisacion en atenta... (clicâd sur ceti mèssâjo ou ben changiéd la pâge)',
 	'ajax-se-idling' => '(cen fât $1 s)',
 	'ajax-se-pagedoesnotexist' => 'la pâge ègziste pas',
-	'ajax-se-userinvalid' => 'Èrror : utilisator envalido',
-	'ajax-se-usernotfound' => 'Èrror : utilisator entrovâblo',
+	'ajax-se-userinvalid' => 'Èrror : usanciér envalido',
+	'ajax-se-usernotfound' => 'Èrror : usanciér entrovâblo',
 );
 
 /** Irish (Gaeilge)
