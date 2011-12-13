@@ -7,7 +7,7 @@ $wgAjaxShowEditorsTimeout = 60;
 $wgExtensionCredits['other'][] = array(
 	'path' => __FILE__,
 	'name' => 'Ajax Show Editors',
-	'url' => 'http://www.mediawiki.org/wiki/Extension:AjaxShowEditors',
+	'url' => 'https://www.mediawiki.org/wiki/Extension:AjaxShowEditors',
 	'author' => 'Ashar Voultoiz',
 	'descriptionmsg' => 'ajaxshoweditors-desc',
 );
