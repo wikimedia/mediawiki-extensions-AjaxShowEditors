@@ -939,7 +939,7 @@ $messages['nn'] = array(
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
  * @author Jon Harald Søby
  */
-$messages['no'] = array(
+$messages['nb'] = array(
 	'ajaxshoweditors-desc' => 'Vis hvilke brukere som redigerer samme side',
 	'ajax-se-title' => 'Redigerer:',
 	'ajax-se-pending' => 'Avventer gjenoppfriskning … (klikk denne boksen eller start å redigere)',
