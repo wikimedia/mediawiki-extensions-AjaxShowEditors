@@ -881,6 +881,19 @@ $messages['nah'] = array(
 	'ajax-se-pagedoesnotexist' => 'zāzanilli ahmo ia',
 );
 
+/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+ * @author Jon Harald Søby
+ */
+$messages['nb'] = array(
+	'ajaxshoweditors-desc' => 'Vis hvilke brukere som redigerer samme side',
+	'ajax-se-title' => 'Redigerer:',
+	'ajax-se-pending' => 'Avventer gjenoppfriskning … (klikk denne boksen eller start å redigere)',
+	'ajax-se-idling' => '($1s siden)',
+	'ajax-se-pagedoesnotexist' => 'siden finnes ikke',
+	'ajax-se-userinvalid' => 'Feil: ugyldig bruker',
+	'ajax-se-usernotfound' => 'Feil: bruker ikke funnet',
+);
+
 /** Low German (Plattdüütsch)
  * @author Slomox
  */
@@ -934,19 +947,6 @@ $messages['nn'] = array(
 	'ajax-se-pagedoesnotexist' => 'sida finst ikkje',
 	'ajax-se-userinvalid' => 'Feil: Ugyldig brukar',
 	'ajax-se-usernotfound' => 'Feil: Fann ikkje brukaren',
-);
-
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
- */
-$messages['nb'] = array(
-	'ajaxshoweditors-desc' => 'Vis hvilke brukere som redigerer samme side',
-	'ajax-se-title' => 'Redigerer:',
-	'ajax-se-pending' => 'Avventer gjenoppfriskning … (klikk denne boksen eller start å redigere)',
-	'ajax-se-idling' => '($1s siden)',
-	'ajax-se-pagedoesnotexist' => 'siden finnes ikke',
-	'ajax-se-userinvalid' => 'Feil: ugyldig bruker',
-	'ajax-se-usernotfound' => 'Feil: bruker ikke funnet',
 );
 
 /** Northern Sotho (Sesotho sa Leboa)
@@ -1148,6 +1148,7 @@ $messages['sr-ec'] = array(
 
 /** Serbian (Latin script) (‪Srpski (latinica)‬)
  * @author Michaello
+ * @author Rancher
  */
 $messages['sr-el'] = array(
 	'ajaxshoweditors-desc' => 'Pokazuje korisnike koji trenutno uređuju istu stranicu',
@@ -1155,7 +1156,7 @@ $messages['sr-el'] = array(
 	'ajax-se-pending' => 'čeka se osvežavanje ... (kliknite ovde ili počnite sa uređivanjem)',
 	'ajax-se-idling' => '(pre $1 sek)',
 	'ajax-se-pagedoesnotexist' => 'stranica ne postoji',
-	'ajax-se-userinvalid' => 'GREŠKA: korisnik ne postoji',
+	'ajax-se-userinvalid' => 'Greška: nepoznat korisnik',
 	'ajax-se-usernotfound' => 'GREŠKA: korisnik nije pronađen',
 );
 
