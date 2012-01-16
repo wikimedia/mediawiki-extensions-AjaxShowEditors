@@ -1361,6 +1361,7 @@ $messages['vo'] = array(
 $messages['yi'] = array(
 	'ajax-se-pagedoesnotexist' => 'בלאַט עקזיסטירט נישט',
 	'ajax-se-userinvalid' => 'גרייז: באַניצער אומגילטיק',
+	'ajax-se-usernotfound' => 'גרייז: באניצער נישט געטראפן',
 );
 
 /** Yoruba (Yorùbá)
