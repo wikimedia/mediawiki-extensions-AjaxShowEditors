@@ -433,7 +433,7 @@ $messages['frc'] = array(
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
-	'ajaxshoweditors-desc' => 'Montre los utilisators que sont aprés changiér la méma pâge.',
+	'ajaxshoweditors-desc' => 'Montre los usanciérs que sont aprés changiér la méma pâge.',
 	'ajax-se-title' => 'Aprés étre changiê per :',
 	'ajax-se-pending' => 'actualisacion en atenta... (clicâd sur ceti mèssâjo ou ben changiéd la pâge)',
 	'ajax-se-idling' => '(cen fât $1 s)',
@@ -1254,7 +1254,7 @@ $messages['tg-cyrl'] = array(
 	'ajax-se-usernotfound' => 'ERR: корбар ёфт нашуд',
 );
 
-/** Tajik (Latin script) (tojikī)
+/** Tajik (Latin script) (Tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
