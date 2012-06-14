@@ -91,7 +91,7 @@ $messages['arz'] = array(
 	'ajax-se-usernotfound' => 'غلط: مالقيناش اليوزر',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Esbardu
  * @author Xuacu
  */
@@ -114,7 +114,7 @@ $messages['avk'] = array(
 	'ajax-se-usernotfound' => 'ROKLA : metrasin favesik',
 );
 
-/** Azerbaijani (Azərbaycanca)
+/** Azerbaijani (azərbaycanca)
  * @author Vago
  */
 $messages['az'] = array(
@@ -158,7 +158,7 @@ $messages['be-tarask'] = array(
 	'ajax-se-usernotfound' => 'Памылка: удзельнік ня знойдзены',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  */
 $messages['bg'] = array(
@@ -185,7 +185,7 @@ $messages['bn'] = array(
 	'ajax-se-usernotfound' => 'ত্রুটি: ব্যবহারকারী খুঁজে পাওয়া যায়নি',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
@@ -198,7 +198,7 @@ $messages['br'] = array(
 	'ajax-se-usernotfound' => "FAZI : n'eo ket bet kavet an implijer",
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -211,7 +211,7 @@ $messages['bs'] = array(
 	'ajax-se-usernotfound' => 'Greška: korisnik nije nađen',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Aleator
  * @author Paucabot
  * @author Solde
@@ -226,7 +226,7 @@ $messages['ca'] = array(
 	'ajax-se-usernotfound' => "Error: no s'ha trobat l'usuari",
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Li-sung
  * @author Matěj Grabovský
  */
@@ -253,7 +253,7 @@ $messages['cy'] = array(
 	'ajax-se-usernotfound' => "Gwall: ni chafwyd hyd i'r defnyddiwr",
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author Jan Friberg
  */
 $messages['da'] = array(
@@ -330,7 +330,7 @@ $messages['eo'] = array(
 	'ajax-se-usernotfound' => 'Eraro: Uzanto ne estas trovita',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Sanbec
  */
 $messages['es'] = array(
@@ -343,7 +343,7 @@ $messages['es'] = array(
 	'ajax-se-usernotfound' => 'Error: usuario no encontrado',
 );
 
-/** Estonian (Eesti)
+/** Estonian (eesti)
  * @author Avjoska
  */
 $messages['et'] = array(
@@ -351,7 +351,7 @@ $messages['et'] = array(
 	'ajax-se-usernotfound' => 'Viga: kasutajat ei leitud',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author Theklan
  */
 $messages['eu'] = array(
@@ -364,7 +364,7 @@ $messages['eu'] = array(
 	'ajax-se-usernotfound' => 'Akatsa: lankidea ez da aurkitu',
 );
 
-/** Extremaduran (Estremeñu)
+/** Extremaduran (estremeñu)
  * @author Better
  */
 $messages['ext'] = array(
@@ -387,7 +387,7 @@ $messages['fa'] = array(
 	'ajax-se-usernotfound' => 'خطا: کاربر یافت نشد',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Cimon Avaro
  * @author Crt
  * @author Vililikku
@@ -402,7 +402,7 @@ $messages['fi'] = array(
 	'ajax-se-usernotfound' => 'Virhe: käyttäjää ei löydy',
 );
 
-/** French (Français)
+/** French (français)
  * @author Grondin
  * @author Louperivois
  * @author PieRRoMaN
@@ -419,7 +419,7 @@ $messages['fr'] = array(
 	'ajax-se-usernotfound' => 'Erreur : utilisateur introuvable',
 );
 
-/** Cajun French (Français cadien)
+/** Cajun French (français cadien)
  * @author JeanVoisin
  * @author RoyAlcatraz
  */
@@ -429,7 +429,7 @@ $messages['frc'] = array(
 	'ajax-se-idling' => '($1 secondes passées)',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -532,7 +532,7 @@ $messages['hi'] = array(
 	'ajax-se-usernotfound' => 'गलती: सदस्य मिला नहीं',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Dalibor Bosits
  * @author Ex13
  * @author SpeedyGonsales
@@ -560,7 +560,7 @@ $messages['hsb'] = array(
 	'ajax-se-usernotfound' => 'ZMYLK: wužiwar njenamakany',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dani
  * @author Dj
  */
@@ -583,7 +583,7 @@ $messages['hy'] = array(
 	'ajax-se-idling' => '($1 վ առաջ)',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -622,7 +622,7 @@ $messages['ig'] = array(
 	'ajax-se-usernotfound' => "Nsógbu: ọ'bànifé à díghì",
 );
 
-/** Icelandic (Íslenska)
+/** Icelandic (íslenska)
  * @author S.Örvarr.S
  */
 $messages['is'] = array(
@@ -635,7 +635,7 @@ $messages['is'] = array(
 	'ajax-se-usernotfound' => 'Villa: notandi ekki fundinn',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Cruccone
  * @author FiloSottile
  * @author Pietrodn
@@ -792,7 +792,7 @@ $messages['lo'] = array(
 	'ajax-se-title' => 'ພວມດັດແກ້ :',
 );
 
-/** Lithuanian (Lietuvių)
+/** Lithuanian (lietuvių)
  * @author Garas
  * @author Hugo.arg
  * @author Vpovilaitis
@@ -807,7 +807,7 @@ $messages['lt'] = array(
 	'ajax-se-usernotfound' => 'ERR: naudotojas nerastas',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  * @author Brest
  */
@@ -936,7 +936,7 @@ $messages['nl'] = array(
 	'ajax-se-usernotfound' => 'Fout: gebruiker niet gevonden',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Eirik
  * @author Jorunn
  */
@@ -959,7 +959,7 @@ $messages['nso'] = array(
 	'ajax-se-idling' => '($1s yago feta)',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -979,7 +979,7 @@ $messages['pdc'] = array(
 	'ajax-se-idling' => '(vor $1 s)',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Derbeth
  * @author McMonster
  * @author Sp5uhe
@@ -1019,7 +1019,7 @@ $messages['ps'] = array(
 	'ajax-se-usernotfound' => 'ERR: کارن و نه موندل شو',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Brunoy Anastasiya Seryozhenko
  * @author Hamilton Abreu
  * @author Malafaya
@@ -1034,7 +1034,7 @@ $messages['pt'] = array(
 	'ajax-se-usernotfound' => 'Erro: utilizador não encontrado',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
@@ -1047,7 +1047,7 @@ $messages['pt-br'] = array(
 	'ajax-se-usernotfound' => 'Erro: utilizador não encontrado',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author KlaudiuMihaila
  */
 $messages['ro'] = array(
@@ -1060,7 +1060,7 @@ $messages['ro'] = array(
 	'ajax-se-usernotfound' => 'Eroare: utilizator negăsit',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
@@ -1073,7 +1073,7 @@ $messages['roa-tara'] = array(
 	'ajax-se-usernotfound' => "Errore:utende ca non g'esiste",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Kaganer
  * @author Александр Сигачёв
  */
@@ -1087,7 +1087,7 @@ $messages['ru'] = array(
 	'ajax-se-usernotfound' => 'ОШБ: участник не найден',
 );
 
-/** Sakha (Саха тыла)
+/** Sakha (саха тыла)
  * @author Bert Jickty
  */
 $messages['sah'] = array(
@@ -1096,7 +1096,7 @@ $messages['sah'] = array(
 	'ajax-se-idling' => '($1 c анараа өттүгэр)',
 );
 
-/** Sicilian (Sicilianu)
+/** Sicilian (sicilianu)
  * @author Santu
  * @author Tonyfroio
  */
@@ -1107,7 +1107,7 @@ $messages['scn'] = array(
 	'ajax-se-idling' => '(di $1 s)',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
@@ -1120,7 +1120,7 @@ $messages['sk'] = array(
 	'ajax-se-usernotfound' => 'CHYBA: používateľ nebol nájdený',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
@@ -1133,7 +1133,7 @@ $messages['sl'] = array(
 	'ajax-se-usernotfound' => 'Napaka: uporabnika ni mogoče najti',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  * @author Sasa Stefanovic
  */
@@ -1147,7 +1147,7 @@ $messages['sr-ec'] = array(
 	'ajax-se-usernotfound' => 'ГРЕШКА: корисник није пронађен',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪srpski (latinica)‬)
  * @author Michaello
  * @author Rancher
  */
@@ -1188,7 +1188,7 @@ $messages['su'] = array(
 	'ajax-se-usernotfound' => 'ERR: pamaké teu kapanggih',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Lejonel
  * @author M.M.S.
  * @author Sannab
@@ -1242,7 +1242,7 @@ $messages['te'] = array(
 	'ajax-se-usernotfound' => 'పొరపాటు: వాడుకరి కనబడలేదు',
 );
 
-/** Tajik (Cyrillic script) (Тоҷикӣ)
+/** Tajik (Cyrillic script) (тоҷикӣ)
  * @author Ibrahim
  */
 $messages['tg-cyrl'] = array(
@@ -1255,7 +1255,7 @@ $messages['tg-cyrl'] = array(
 	'ajax-se-usernotfound' => 'ERR: корбар ёфт нашуд',
 );
 
-/** Tajik (Latin script) (Tojikī)
+/** Tajik (Latin script) (tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
@@ -1309,7 +1309,7 @@ $messages['tr'] = array(
 	'ajax-se-usernotfound' => 'Hata: kullanıcı bulunamadı',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Ahonc
  */
 $messages['uk'] = array(
@@ -1322,7 +1322,7 @@ $messages['uk'] = array(
 	'ajax-se-usernotfound' => 'ПОМИЛКА: користувач не знайдений',
 );
 
-/** Vèneto (Vèneto)
+/** vèneto (vèneto)
  * @author Candalua
  */
 $messages['vec'] = array(
@@ -1385,7 +1385,7 @@ $messages['yue'] = array(
 	'ajax-se-usernotfound' => '錯誤: 搵唔到用戶',
 );
 
-/** Simplified Chinese (‪中文(简体)‬) */
+/** Simplified Chinese (‪中文（简体）‬) */
 $messages['zh-hans'] = array(
 	'ajaxshoweditors-desc' => '列出正在编辑同一個页面的用户',
 	'ajax-se-title' => '当前编辑中:',
@@ -1396,7 +1396,7 @@ $messages['zh-hans'] = array(
 	'ajax-se-usernotfound' => '错误:该用户不存在',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Mark85296341
  */
 $messages['zh-hant'] = array(
