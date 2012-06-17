@@ -654,6 +654,7 @@ $messages['it'] = array(
  * @author Broad-Sky
  * @author Fryed-peach
  * @author JtFuruhata
+ * @author Shirayuki
  */
 $messages['ja'] = array(
 	'ajaxshoweditors-desc' => '同じページを編集している利用者を表示する',
@@ -661,8 +662,8 @@ $messages['ja'] = array(
 	'ajax-se-pending' => '更新します… (この枠内をクリックするか編集を始めてください)',
 	'ajax-se-idling' => '($1秒前)',
 	'ajax-se-pagedoesnotexist' => 'このページは一度も保存されていません',
-	'ajax-se-userinvalid' => 'エラー: 不正な利用者です',
-	'ajax-se-usernotfound' => 'エラー: 利用者情報が存在しません',
+	'ajax-se-userinvalid' => 'エラー：無効な利用者',
+	'ajax-se-usernotfound' => 'エラー：利用者が見つかりません',
 );
 
 /** Javanese (Basa Jawa)
