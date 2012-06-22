@@ -74,7 +74,7 @@ $messages['ar'] = array(
  * @author Basharh
  */
 $messages['arc'] = array(
-	'ajax-se-pagedoesnotexist' => '(ܕܦܐ ܗܢܐ ܠܝܬ)',
+	'ajax-se-pagedoesnotexist' => 'ܦܐܬܐ ܗܕܐ ܠܝܬ',
 );
 
 /** Egyptian Spoken Arabic (مصرى)
