@@ -144,7 +144,7 @@ $messages['bcl'] = array(
 	'ajax-se-idling' => '($1s na an nakaagi)',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -289,7 +289,7 @@ $messages['de-formal'] = array(
 	'ajax-se-pending' => 'bevorstehende Aktualisierungen … (klicken Sie auf diesen Kasten oder beginnen Sie mit der Bearbeitung)',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -456,7 +456,7 @@ $messages['ga'] = array(
 	'ajax-se-usernotfound' => 'Earráid: ní bhfuarthas an úsáideoir',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Alma
  * @author Toliño
  * @author Xosé
@@ -547,7 +547,7 @@ $messages['hr'] = array(
 	'ajax-se-usernotfound' => 'Greška: suradnik nije pronađen',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
