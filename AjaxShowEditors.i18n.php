@@ -122,7 +122,7 @@ $messages['az'] = array(
 	'ajax-se-userinvalid' => 'Xəta:Yanlış istifadəçi',
 );
 
-/** Bashkir (Башҡортса)
+/** Bashkir (башҡортса)
  * @author Assele
  */
 $messages['ba'] = array(
@@ -685,14 +685,14 @@ $messages['kk-arab'] = array(
 	'ajax-se-idling' => '($1 s بۇرىن)',
 );
 
-/** Kazakh (Cyrillic script) (‪Қазақша (кирил)‬) */
+/** Kazakh (Cyrillic script) (‪қазақша (кирил)‬) */
 $messages['kk-cyrl'] = array(
 	'ajax-se-title' => 'Ағымдағы өңделуде:',
 	'ajax-se-pending' => 'жаңарту күтілуде... (бұл қабышақты нұқыңыз, немесе өңдеуді бастаңыз)',
 	'ajax-se-idling' => '($1 s бұрын)',
 );
 
-/** Kazakh (Latin script) (‪Qazaqşa (latın)‬) */
+/** Kazakh (Latin script) (‪qazaqşa (latın)‬) */
 $messages['kk-latn'] = array(
 	'ajax-se-title' => 'Ağımdağı öñdelwde:',
 	'ajax-se-pending' => 'jañartw kütilwde... (bul qabışaqtı nuqıñız, nemese öñdewdi bastañız)',
@@ -763,7 +763,7 @@ $messages['lb'] = array(
 	'ajax-se-usernotfound' => 'Feeler: Benotzer net fonnt',
 );
 
-/** Lezghian (Лезги)
+/** Lezghian (лезги)
  * @author Namik
  */
 $messages['lez'] = array(
@@ -865,7 +865,7 @@ $messages['ms'] = array(
 	'ajax-se-usernotfound' => 'Ralat: pengguna tidak dijumpai',
 );
 
-/** Erzya (Эрзянь)
+/** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
 $messages['myv'] = array(
@@ -883,9 +883,7 @@ $messages['nah'] = array(
 	'ajax-se-pagedoesnotexist' => 'zāzanilli ahmo ia',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
- */
+/** Norwegian Bokmål (‪norsk (bokmål)‬) */
 $messages['nb'] = array(
 	'ajaxshoweditors-desc' => 'Vis hvilke brukere som redigerer samme side',
 	'ajax-se-title' => 'Redigerer:',
