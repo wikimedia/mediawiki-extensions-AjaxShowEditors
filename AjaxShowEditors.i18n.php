@@ -678,6 +678,13 @@ $messages['jv'] = array(
 	'ajax-se-usernotfound' => 'LUPUT: panganggo ora ditemokaké',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'ajax-se-pagedoesnotexist' => 'გვერდი არ არსებობს',
+);
+
 /** Kazakh (Arabic script) (‫قازاقشا (تٴوتە)‬) */
 $messages['kk-arab'] = array(
 	'ajax-se-title' => 'اعىمداعى ٶڭدەلۋدە:',
@@ -1104,6 +1111,13 @@ $messages['scn'] = array(
 	'ajax-se-title' => "Canciamentu 'n corsu:",
 	'ajax-se-pending' => "'n attesa d'aggiornamentu ... (fari clic su chista casidda o ncignari lu canciamentu)",
 	'ajax-se-idling' => '(di $1 s)',
+);
+
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'ajax-se-pagedoesnotexist' => 'පිටුව නොපවතී',
 );
 
 /** Slovak (slovenčina)
