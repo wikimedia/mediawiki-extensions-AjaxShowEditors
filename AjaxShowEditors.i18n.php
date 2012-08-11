@@ -268,25 +268,27 @@ $messages['da'] = array(
 
 /** German (Deutsch)
  * @author Jens Liebenau
+ * @author Kghbln
  * @author Pill
  * @author Raimond Spekking
  * @author Umherirrender
  */
 $messages['de'] = array(
-	'ajaxshoweditors-desc' => 'Zeigt Benutzer, die momentan dieselbe Seite bearbeiten',
+	'ajaxshoweditors-desc' => 'Ermöglicht die Anzeige der Benutzer, die momentan dieselbe Seite bearbeiten',
 	'ajax-se-title' => 'Wird zurzeit bearbeitet von:',
-	'ajax-se-pending' => 'bevorstehende Aktualisierungen … (klicke auf diesen Kasten oder beginne mit der Bearbeitung)',
-	'ajax-se-idling' => '(vor $1 s)',
-	'ajax-se-pagedoesnotexist' => 'Seite existiert nicht',
-	'ajax-se-userinvalid' => 'Fehler: Benutzer ungültig',
-	'ajax-se-usernotfound' => 'Fehler: Benutzer wurde nicht gefunden',
+	'ajax-se-pending' => 'Die Aktualisierung steht aus … Klicke auf diesen Kasten oder beginne mit dem Bearbeiten.',
+	'ajax-se-idling' => '(vor $1 Sekunden)',
+	'ajax-se-pagedoesnotexist' => 'Die Seite ist nicht vorhanden.',
+	'ajax-se-userinvalid' => 'Fehler: Der Benutzer ist ungültig.',
+	'ajax-se-usernotfound' => 'Fehler: Der Benutzer wurde nicht gefunden.',
 );
 
 /** German (formal address) (‪Deutsch (Sie-Form)‬)
  * @author Imre
+ * @author Kghbln
  */
 $messages['de-formal'] = array(
-	'ajax-se-pending' => 'bevorstehende Aktualisierungen … (klicken Sie auf diesen Kasten oder beginnen Sie mit der Bearbeitung)',
+	'ajax-se-pending' => 'Die Aktualisierung steht aus … Klicken Sie auf diesen Kasten oder beginnen Sie mit dem Bearbeiten.',
 );
 
 /** Lower Sorbian (dolnoserbski)
