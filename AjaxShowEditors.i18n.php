@@ -1119,7 +1119,10 @@ $messages['scn'] = array(
  * @author පසිඳු කාවින්ද
  */
 $messages['si'] = array(
+	'ajax-se-idling' => '($1 පෙර)',
 	'ajax-se-pagedoesnotexist' => 'පිටුව නොපවතී',
+	'ajax-se-userinvalid' => 'දෝෂය: පරිශීලකයා වලංගු නැත',
+	'ajax-se-usernotfound' => 'දෝෂය: පරිශීලකයා හමු නොවුණි',
 );
 
 /** Slovak (slovenčina)
