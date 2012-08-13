@@ -349,6 +349,7 @@ $messages['es'] = array(
  * @author Avjoska
  */
 $messages['et'] = array(
+	'ajax-se-title' => 'Praegu redigeerimisel:',
 	'ajax-se-pagedoesnotexist' => 'lehekülge ei ole',
 	'ajax-se-usernotfound' => 'Viga: kasutajat ei leitud',
 );
@@ -1119,6 +1120,7 @@ $messages['scn'] = array(
  * @author පසිඳු කාවින්ද
  */
 $messages['si'] = array(
+	'ajax-se-title' => 'දැන් සංස්කරණය කරමින්:',
 	'ajax-se-idling' => '($1 පෙර)',
 	'ajax-se-pagedoesnotexist' => 'පිටුව නොපවතී',
 	'ajax-se-userinvalid' => 'දෝෂය: පරිශීලකයා වලංගු නැත',
