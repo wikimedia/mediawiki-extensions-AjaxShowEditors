@@ -663,10 +663,10 @@ $messages['ja'] = array(
 	'ajaxshoweditors-desc' => '同じページを編集している利用者を表示する',
 	'ajax-se-title' => '現在編集中:',
 	'ajax-se-pending' => '更新します… (この枠内をクリックするか編集を始めてください)',
-	'ajax-se-idling' => '($1秒前)',
+	'ajax-se-idling' => '($1 秒前)',
 	'ajax-se-pagedoesnotexist' => 'このページは一度も保存されていません',
-	'ajax-se-userinvalid' => 'エラー：無効な利用者',
-	'ajax-se-usernotfound' => 'エラー：利用者が見つかりません',
+	'ajax-se-userinvalid' => 'エラー: 無効な利用者です',
+	'ajax-se-usernotfound' => 'エラー: 利用者が見つかりません',
 );
 
 /** Javanese (Basa Jawa)
