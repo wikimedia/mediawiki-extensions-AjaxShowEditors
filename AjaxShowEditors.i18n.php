@@ -291,6 +291,13 @@ $messages['de-formal'] = array(
 	'ajax-se-pending' => 'Die Aktualisierung steht aus … Klicken Sie auf diesen Kasten oder beginnen Sie mit dem Bearbeiten.',
 );
 
+/** Zazaki (Zazaki)
+ * @author Erdemaslancan
+ */
+$messages['diq'] = array(
+	'ajax-se-idling' => '($1s veror)',
+);
+
 /** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
@@ -1374,6 +1381,19 @@ $messages['vi'] = array(
  */
 $messages['vo'] = array(
 	'ajax-se-idling' => '(bü $1s)',
+);
+
+/** Waray (Winaray)
+ * @author Harvzsf
+ */
+$messages['war'] = array(
+	'ajaxshoweditors-desc' => 'Nagpapakita hin mga gumaramit nga nagliliwat nga nanliliwat han amo-la-gihapon nga pakli',
+	'ajax-se-title' => 'Nagliliwat ha yana:',
+	'ajax-se-pending' => 'naghuhulat han pagpalab-as... (iglik ini nga kahon o pagtikang pagliwat)',
+	'ajax-se-idling' => '($1s kanina)',
+	'ajax-se-pagedoesnotexist' => 'waray dida an pakli',
+	'ajax-se-userinvalid' => 'Sayop: an gumaramit diri puyde',
+	'ajax-se-usernotfound' => 'Sayop: an gumaramit waray mabilnga',
 );
 
 /** Yiddish (ייִדיש)
