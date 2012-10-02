@@ -144,7 +144,7 @@ $messages['bcl'] = array(
 	'ajax-se-idling' => '($1s na an nakaagi)',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -283,7 +283,7 @@ $messages['de'] = array(
 	'ajax-se-usernotfound' => 'Fehler: Der Benutzer wurde nicht gefunden.',
 );
 
-/** German (formal address) (‪Deutsch (Sie-Form)‬)
+/** German (formal address) (Deutsch (Sie-Form)‎)
  * @author Imre
  * @author Kghbln
  */
@@ -695,21 +695,21 @@ $messages['ka'] = array(
 	'ajax-se-pagedoesnotexist' => 'გვერდი არ არსებობს',
 );
 
-/** Kazakh (Arabic script) (‫قازاقشا (تٴوتە)‬) */
+/** Kazakh (Arabic script) (قازاقشا (تٴوتە)‏) */
 $messages['kk-arab'] = array(
 	'ajax-se-title' => 'اعىمداعى ٶڭدەلۋدە:',
 	'ajax-se-pending' => 'جاڭارتۋ كٷتٸلۋدە... (بۇل قابىشاقتى نۇقىڭىز, نەمەسە ٶڭدەۋدٸ باستاڭىز)',
 	'ajax-se-idling' => '($1 s بۇرىن)',
 );
 
-/** Kazakh (Cyrillic script) (‪қазақша (кирил)‬) */
+/** Kazakh (Cyrillic script) (қазақша (кирил)‎) */
 $messages['kk-cyrl'] = array(
 	'ajax-se-title' => 'Ағымдағы өңделуде:',
 	'ajax-se-pending' => 'жаңарту күтілуде... (бұл қабышақты нұқыңыз, немесе өңдеуді бастаңыз)',
 	'ajax-se-idling' => '($1 s бұрын)',
 );
 
-/** Kazakh (Latin script) (‪qazaqşa (latın)‬) */
+/** Kazakh (Latin script) (qazaqşa (latın)‎) */
 $messages['kk-latn'] = array(
 	'ajax-se-title' => 'Ağımdağı öñdelwde:',
 	'ajax-se-pending' => 'jañartw kütilwde... (bul qabışaqtı nuqıñız, nemese öñdewdi bastañız)',
@@ -900,7 +900,7 @@ $messages['nah'] = array(
 	'ajax-se-pagedoesnotexist' => 'zāzanilli ahmo ia',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬) */
+/** Norwegian Bokmål (norsk (bokmål)‎) */
 $messages['nb'] = array(
 	'ajaxshoweditors-desc' => 'Vis hvilke brukere som redigerer samme side',
 	'ajax-se-title' => 'Redigerer:',
@@ -952,7 +952,7 @@ $messages['nl'] = array(
 	'ajax-se-usernotfound' => 'Fout: gebruiker niet gevonden',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Eirik
  * @author Jorunn
  */
@@ -1160,7 +1160,7 @@ $messages['sl'] = array(
 	'ajax-se-usernotfound' => 'Napaka: uporabnika ni mogoče najti',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  * @author Sasa Stefanovic
  */
@@ -1174,7 +1174,7 @@ $messages['sr-ec'] = array(
 	'ajax-se-usernotfound' => 'ГРЕШКА: корисник није пронађен',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Michaello
  * @author Rancher
  */
@@ -1425,7 +1425,7 @@ $messages['yue'] = array(
 	'ajax-se-usernotfound' => '錯誤: 搵唔到用戶',
 );
 
-/** Simplified Chinese (‪中文（简体）‬) */
+/** Simplified Chinese (中文（简体）‎) */
 $messages['zh-hans'] = array(
 	'ajaxshoweditors-desc' => '列出正在编辑同一個页面的用户',
 	'ajax-se-title' => '当前编辑中:',
@@ -1436,7 +1436,7 @@ $messages['zh-hans'] = array(
 	'ajax-se-usernotfound' => '错误:该用户不存在',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Mark85296341
  */
 $messages['zh-hant'] = array(
