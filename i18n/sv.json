@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lejonel",
+			"M.M.S.",
+			"Sannab"
+		]
+	},
+	"ajaxshoweditors-desc": "Visar under sidredigering vilka användare som redigerar samma sida",
+	"ajax-se-title": "Redigeras just nu:",
+	"ajax-se-pending": "avvaktar omläsning ... (klicka på denna ruta eller börja redigera)",
+	"ajax-se-idling": "($1s sedan)",
+	"ajax-se-pagedoesnotexist": "sidan existerar inte",
+	"ajax-se-usernotfound": "Fel: användaren hittades inte"
+}

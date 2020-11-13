@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eirik",
+			"Jorunn"
+		]
+	},
+	"ajaxshoweditors-desc": "Viser kva brukarar som endrar same side som ein sjølv",
+	"ajax-se-title": "Endrar no:",
+	"ajax-se-pending": "Ventar på oppdatering … (klikk på denne boksen eller set i gang med å endre)",
+	"ajax-se-idling": "($1 sekund sidan)",
+	"ajax-se-pagedoesnotexist": "sida finst ikkje",
+	"ajax-se-usernotfound": "Feil: Fann ikkje brukaren"
+}

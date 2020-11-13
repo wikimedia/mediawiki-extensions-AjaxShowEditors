@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rex"
+		]
+	},
+	"ajaxshoweditors-desc": "Menampilkan siapa saja yang sedang menyunting di halaman yang sama",
+	"ajax-se-title": "Sedang menyunting:",
+	"ajax-se-pending": "pemuatan ulang ditunda ... (klik kotak ini atau mulai menyunting)",
+	"ajax-se-idling": "($1d lalu)",
+	"ajax-se-pagedoesnotexist": "halaman tidak ditemukan",
+	"ajax-se-usernotfound": "Kesalahan: pengguna tidak ditemukan"
+}

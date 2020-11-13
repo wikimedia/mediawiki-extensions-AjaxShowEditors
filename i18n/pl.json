@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Derbeth",
+			"McMonster",
+			"Sp5uhe",
+			"Wpedzich"
+		]
+	},
+	"ajaxshoweditors-desc": "Pokazuje, którzy użytkownicy edytują tę samą stronę",
+	"ajax-se-title": "Ta strona jest teraz edytowana przez:",
+	"ajax-se-pending": "oczekiwanie na odświeżenie... (kliknij na tę ramkę lub zacznij edycję)",
+	"ajax-se-idling": "($1s temu)",
+	"ajax-se-pagedoesnotexist": "strona nie istnieje",
+	"ajax-se-usernotfound": "Błąd – nie znaleziono użytkownika"
+}

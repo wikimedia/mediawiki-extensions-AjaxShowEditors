@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mdupont"
+		]
+	},
+	"ajaxshoweditors-desc": "Tregon përdoruesve redaktimi i cili është redaktimi të njëjtën faqe",
+	"ajax-se-title": "Aktualisht redaktim:",
+	"ajax-se-pending": "në pritje të rifreskoni ... (klikoni këtë kuti ose fillimin e redaktimi)",
+	"ajax-se-idling": "($1s ago)",
+	"ajax-se-pagedoesnotexist": "faqe nuk ekziston",
+	"ajax-se-usernotfound": "Gabim: nuk u gjet përdorues"
+}

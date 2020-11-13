@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"CERminator"
+		]
+	},
+	"ajaxshoweditors-desc": "Prikazuje korisnike koji uređuju istu stranicu",
+	"ajax-se-title": "Trenutno uređuju:",
+	"ajax-se-pending": "čekanje na osvježavanje... (kliknite na ovu kutiju ili započnite uređivanje)",
+	"ajax-se-idling": "(prije $1 s)",
+	"ajax-se-pagedoesnotexist": "stranica ne postoji",
+	"ajax-se-usernotfound": "Greška: korisnik nije nađen"
+}

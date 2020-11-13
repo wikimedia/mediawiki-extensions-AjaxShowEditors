@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rotemliss",
+			"YaronSh"
+		]
+	},
+	"ajaxshoweditors-desc": "הצגת משתמשים העורכים את אותו הדף",
+	"ajax-se-title": "עורכים כעת:",
+	"ajax-se-pending": "בהמתנה לרענון… (לחצו על תיבה זו כדי להתחיל בעריכה)",
+	"ajax-se-idling": "(לפני $1 שניות)",
+	"ajax-se-pagedoesnotexist": "הדף אינו קיים",
+	"ajax-se-usernotfound": "שגיאה: המשתמש לא נמצא"
+}

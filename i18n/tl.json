@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw"
+		]
+	},
+	"ajaxshoweditors-desc": "Nagpapakita ng namamatnugot na mga tagagamit na namamatnugot ng magkatulad na pahina",
+	"ajax-se-title": "Kasalukuyang pinapatnugutan:",
+	"ajax-se-pending": "naghihintay ng pagsasariwa... (pindutin ang kahong ito o magsimulang mamatnugot)",
+	"ajax-se-idling": "($1s na ang nakalipas)",
+	"ajax-se-pagedoesnotexist": "hindi umiiral ang pahina",
+	"ajax-se-usernotfound": "Kamalian: hindi natagpuan ang tagagamit"
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"JeanVoisin",
+			"RoyAlcatraz"
+		]
+	},
+	"ajax-se-title": "Après changer:",
+	"ajax-se-pending": "Le système est après espérer le renouvelage de la page.  Cliquez cette boëte ici ou commencez à changer la page.",
+	"ajax-se-idling": "($1 secondes passées)"
+}

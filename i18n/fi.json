@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cimon Avaro",
+			"Crt",
+			"Vililikku"
+		]
+	},
+	"ajaxshoweditors-desc": "Näyttää muokkauslaatikon yhteydessä ketkä muokkaavat samaa sivua samanaikaisesti",
+	"ajax-se-title": "Samanaikaiset muokkaajat:",
+	"ajax-se-pending": "odotetaan päivitystä… (napsauta tästä tai aloita muokkaaminen)",
+	"ajax-se-idling": "($1 s sitten)",
+	"ajax-se-pagedoesnotexist": "sivua ei ole",
+	"ajax-se-usernotfound": "Virhe: käyttäjää ei löydy"
+}

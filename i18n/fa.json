@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Huji",
+			"Mardetanha",
+			"Sahim"
+		]
+	},
+	"ajaxshoweditors-desc": "ویرایش‌های کاربران را نمایش می‌دهد که چه کسی همان صفحه را ویرایش کرده است",
+	"ajax-se-title": "در حال ویرایش:",
+	"ajax-se-pending": "در انتظار بازیابی... (این جعبه را انتخاب کنید یا اینکه ویرایش‌کردن را شروع کنید)",
+	"ajax-se-idling": "(ثانیه قبل$1)",
+	"ajax-se-pagedoesnotexist": "صفحه وجود ندارد",
+	"ajax-se-usernotfound": "خطا: کاربر یافت نشد"
+}

@@ -1,0 +1,66 @@
+{
+	"name": "Ajax Show Editors",
+	"version": "2.0",
+	"author": [
+		"Antoine Musso",
+		"Tim Starling",
+		"Jack Phoenix",
+		"..."
+	],
+	"url": "https://www.mediawiki.org/wiki/Extension:AjaxShowEditors",
+	"descriptionmsg": "ajaxshoweditors-desc",
+	"license-name": "GPL-2.0-only",
+	"requires": {
+		"MediaWiki": ">= 1.35.0"
+	},
+	"type": "other",
+	"MessagesDirs": {
+		"AjaxShowEditors": [
+			"i18n"
+		]
+	},
+	"config": {
+		"AjaxShowEditorsTimeout": {
+			"value": 60,
+			"path": false,
+			"description": "Number of seconds before a user is considered as no longer editing",
+			"public": false
+		}
+	},
+	"APIModules": {
+		"ajaxshoweditors": "ApiAjaxShowEditors"
+	},
+	"AutoloadClasses": {
+		"ApiAjaxShowEditors": "includes/api/ApiAjaxShowEditors.php",
+		"AjaxShowEditors": "includes/AjaxShowEditors.php",
+		"AjaxShowEditorsHooks": "includes/AjaxShowEditorsHooks.php"
+	},
+	"ResourceModules": {
+		"ext.ajaxshoweditors.scripts": {
+			"scripts": "scripts/ext.AjaxShowEditors.js",
+			"dependencies": "mediawiki.api",
+			"targets": [
+				"desktop",
+				"mobile"
+			]
+		},
+		"ext.ajaxshoweditors.styles": {
+			"styles": "styles/ext.AjaxShowEditors.css",
+			"targets": [
+				"desktop",
+				"mobile"
+			]
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "resources",
+		"remoteExtPath": "AjaxShowEditors/resources"
+	},
+	"Hooks": {
+		"PageContentSave": "AjaxShowEditorsHooks::onPageContentSave",
+		"BeforePageDisplay": "AjaxShowEditorsHooks::onBeforePageDisplay",
+		"EditPage::showEditForm:initial": "AjaxShowEditorsHooks::onEditPageShowEditFormInitial",
+		"LoadExtensionSchemaUpdates": "AjaxShowEditorsHooks::onLoadExtensionSchemaUpdates"
+	},
+	"manifest_version": 2
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia",
+			"Kurniasan"
+		]
+	},
+	"ajaxshoweditors-desc": "Menunjukkan pengguna menyunting yang menyunting laman yang sama",
+	"ajax-se-title": "Sedang menyunting:",
+	"ajax-se-pending": "menunggu muat semula… (klik petak ini atau mula menyunting)",
+	"ajax-se-idling": "($1s yang lalu)",
+	"ajax-se-pagedoesnotexist": "laman itu tidak wujud",
+	"ajax-se-usernotfound": "Ralat: pengguna tidak dijumpai"
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"ajaxshoweditors-desc": "Pokazujo wužiwarjow, kótarež ten samy bok wobźěłuju",
+	"ajax-se-title": "Wobźěła se tuchylu wót:",
+	"ajax-se-pending": "caka se na aktualizaciju... (klikni na toś ten kašćik abo chop z wobźěłanim)",
+	"ajax-se-idling": "(pśed $1 s)",
+	"ajax-se-pagedoesnotexist": "bok njeeksistěrujo",
+	"ajax-se-usernotfound": "Zmólka: wužywaŕ njenamakany"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jens Liebenau",
+			"Kghbln",
+			"Pill",
+			"Raimond Spekking",
+			"Umherirrender"
+		]
+	},
+	"ajaxshoweditors-desc": "Ermöglicht die Anzeige der Benutzer, die momentan dieselbe Seite bearbeiten",
+	"ajax-se-title": "Wird zurzeit bearbeitet von:",
+	"ajax-se-pending": "Die Aktualisierung steht aus … Klicke auf diesen Kasten oder beginne mit dem Bearbeiten.",
+	"ajax-se-idling": "(vor $1 Sekunden)",
+	"ajax-se-pagedoesnotexist": "Die Seite ist nicht vorhanden.",
+	"ajax-se-usernotfound": "Fehler: Der Benutzer wurde nicht gefunden."
+}

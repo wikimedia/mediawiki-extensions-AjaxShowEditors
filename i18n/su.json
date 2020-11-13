@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Irwangatot",
+			"Kandar"
+		]
+	},
+	"ajaxshoweditors-desc": "Témbongkeun pamaké nu keur ngédit kaca nu sarua",
+	"ajax-se-title": "Keur ngédit:",
+	"ajax-se-pending": "muatkeun koropak deui ditunda... (klik kotak ieu atawa mimiti ngédit)",
+	"ajax-se-idling": "($1 nu kaliwat)",
+	"ajax-se-pagedoesnotexist": "kacana euweuh",
+	"ajax-se-usernotfound": "ERR: pamaké teu kapanggih"
+}

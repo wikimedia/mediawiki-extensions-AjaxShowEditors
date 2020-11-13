@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"ajaxshoweditors-desc": "Monstra al usatores modificante qui modifica al momento le mesme pagina",
+	"ajax-se-title": "Al momento modifica:",
+	"ajax-se-pending": "pendente refrescamento… (clicca iste quadro o comencia a modificar)",
+	"ajax-se-idling": "($1s retro)",
+	"ajax-se-pagedoesnotexist": "pagina non existe",
+	"ajax-se-usernotfound": "Error: usator non trovate"
+}

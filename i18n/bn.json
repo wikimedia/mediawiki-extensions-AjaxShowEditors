@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bellayet",
+			"Zaheen"
+		]
+	},
+	"ajaxshoweditors-desc": "একই পাতায় সম্পাদনা করছেন এমন ব্যবহারকারীদের দেখাবে",
+	"ajax-se-title": "বর্তমানে সম্পাদনা করছেন:",
+	"ajax-se-pending": "সতেজ(refresh) করা বাকী আছে... (এই বাক্সে ক্লিক করুন অথবা সম্পাদনা শুরু করুন)",
+	"ajax-se-idling": "($1সেকেন্ড পূর্বে)",
+	"ajax-se-pagedoesnotexist": "পাতাটির অস্তিত্ব নেই",
+	"ajax-se-usernotfound": "ত্রুটি: ব্যবহারকারী খুঁজে পাওয়া যায়নি"
+}

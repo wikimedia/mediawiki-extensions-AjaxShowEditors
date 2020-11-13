@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alma",
+			"Toliño",
+			"Xosé"
+		]
+	},
+	"ajaxshoweditors-desc": "Mostrar os usuarios que están editando a mesma páxina",
+	"ajax-se-title": "Neste momento está a editar:",
+	"ajax-se-pending": "pendente de refresco... (faga clic nesta caixa ou comece a editar)",
+	"ajax-se-idling": "(hai $1s)",
+	"ajax-se-pagedoesnotexist": "a páxina non existe",
+	"ajax-se-usernotfound": "ERRO: o usuario non foi atopado"
+}

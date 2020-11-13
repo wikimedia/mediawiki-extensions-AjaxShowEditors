@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen",
+			"Vinhtantran"
+		]
+	},
+	"ajaxshoweditors-desc": "Cho thành viên đang sửa biết có ai cũng đang sửa trang đó",
+	"ajax-se-title": "Đang sửa đổi:",
+	"ajax-se-pending": "chờ làm tươi ... (nhấn vào hộp này hoặc bắt đầu sửa đổi)",
+	"ajax-se-idling": "($1 giây trước)",
+	"ajax-se-pagedoesnotexist": "trang không tồn tại",
+	"ajax-se-usernotfound": "LỖI: không tìm thấy người dùng"
+}

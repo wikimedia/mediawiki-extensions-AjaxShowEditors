@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cruccone",
+			"FiloSottile",
+			"Pietrodn"
+		]
+	},
+	"ajaxshoweditors-desc": "Mostra gli utenti che stanno modificando la stessa pagina",
+	"ajax-se-title": "Modifica in corso:",
+	"ajax-se-pending": "in attesa di aggiornamento ... (fare clic su questa casella o iniziare la modifica)",
+	"ajax-se-idling": "(da $1 s)",
+	"ajax-se-pagedoesnotexist": "La pagina non esiste",
+	"ajax-se-usernotfound": "Errore: utente non trovato"
+}

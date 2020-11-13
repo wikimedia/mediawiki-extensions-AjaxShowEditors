@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"ajaxshoweditors-desc": "Visualiza los utilizaires que son a modificar la meteissa pagina.",
+	"ajax-se-title": "A èsser modificat per :",
+	"ajax-se-pending": "refrescament en cors ... (clicatz sus aqueste messatge o modificatz la pagina)",
+	"ajax-se-idling": "(i a $1 s)",
+	"ajax-se-pagedoesnotexist": "la pagina existís pas",
+	"ajax-se-usernotfound": "ERROR : Utilizaire introbable"
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Garas",
+			"Hugo.arg",
+			"Vpovilaitis"
+		]
+	},
+	"ajaxshoweditors-desc": "Rodo redaguojančius naudotojus, kurie redaguoja tuo pat metu",
+	"ajax-se-title": "Dabar redaguojama:",
+	"ajax-se-pending": "laukiama atnaujinimo... (paspauskite šį laukelį arba pradėkite redaguoti)",
+	"ajax-se-idling": "(prieš $1 s)",
+	"ajax-se-pagedoesnotexist": "puslapis neegzistuoja",
+	"ajax-se-usernotfound": "ERR: naudotojas nerastas"
+}

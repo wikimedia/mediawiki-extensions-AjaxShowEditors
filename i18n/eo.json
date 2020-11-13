@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yekrats"
+		]
+	},
+	"ajaxshoweditors-desc": "Montras redaktantaj uzantoj kiu redaktas la saman paĝon",
+	"ajax-se-title": "Nune redaktas:",
+	"ajax-se-pending": "atendas por refreŝigo ... (klaku ĉi tiun skatolon aŭ ekredaktu)",
+	"ajax-se-idling": "(antaŭ $1s)",
+	"ajax-se-pagedoesnotexist": "paĝo ne ekzistas",
+	"ajax-se-usernotfound": "Eraro: Uzanto ne estas trovita"
+}

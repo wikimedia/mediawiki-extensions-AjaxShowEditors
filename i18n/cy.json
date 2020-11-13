@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lloffiwr"
+		]
+	},
+	"ajaxshoweditors-desc": "Yn dangos i ddefnyddwyr sydd wrthi'n golygu enwau'r rhai eraill sydd hefyd yn golygu'r un dudalen",
+	"ajax-se-title": "Wrthi'n golygu:",
+	"ajax-se-pending": "er mwyn diweddaru'r wybodaeth... (cliciwch y blwch hwn neu dechreuwch olygu)",
+	"ajax-se-idling": "($1 eiliad yn ôl)",
+	"ajax-se-pagedoesnotexist": "nid yw'r dudalen ar gael",
+	"ajax-se-usernotfound": "Gwall: ni chafwyd hyd i'r defnyddiwr"
+}

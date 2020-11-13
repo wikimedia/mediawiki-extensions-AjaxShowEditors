@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Antoine Musso"
+		]
+	},
+	"ajaxshoweditors-desc": "Shows editing users who are editing the same page",
+	"ajax-se-title": "Currently editing:",
+	"ajax-se-pending": "pending refresh… (click this box or start editing)",
+	"ajax-se-idling": "($1s ago)",
+	"ajax-se-pagedoesnotexist": "page does not exist",
+	"ajax-se-usernotfound": "Error: user not found",
+	"apihelp-ajaxshoweditors-summary": "Get the list of users who are currently editing the given page",
+	"apihelp-ajaxshoweditors-param-pageid": "Numeric identifier for the page that is being edited",
+	"apihelp-ajaxshoweditors-param-username": "Name of the current user who is editing the page",
+	"apihelp-ajaxshoweditors-example-1": "Get the list of users (as HTML) who are editing the page that has the ID #666"
+}

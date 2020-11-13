@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25",
+			"Mido"
+		]
+	},
+	"ajaxshoweditors-desc": "يعرض المستخدمين الذين يعدلون نفس الصفحة",
+	"ajax-se-title": "يقوم الآن بالتحرير:",
+	"ajax-se-pending": "انتظار التحديث ... (اضغط على هذا الصندوق أو ابدأ في التحرير)",
+	"ajax-se-idling": "(منذ $1ث)",
+	"ajax-se-pagedoesnotexist": "الصفحة غير موجودة",
+	"ajax-se-usernotfound": "خطأ: المستخدم غير موجود"
+}

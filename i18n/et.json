@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Avjoska"
+		]
+	},
+	"ajax-se-title": "Praegu redigeerimisel:",
+	"ajax-se-pagedoesnotexist": "lehekülge ei ole",
+	"ajax-se-usernotfound": "Viga: kasutajat ei leitud"
+}

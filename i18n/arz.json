@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25",
+			"Ramsis II"
+		]
+	},
+	"ajaxshoweditors-desc": "بيبين اليوزرز اللى بيعدلو الصفحة نفسيها",
+	"ajax-se-title": "بيعدل دلوقتي:",
+	"ajax-se-pending": "التحديث متعلق ... (دوس على  الصندوق دا أو ابتدى فى التحرير)",
+	"ajax-se-idling": "(منذ $1ث)",
+	"ajax-se-pagedoesnotexist": "الصفحة مش موجودة",
+	"ajax-se-usernotfound": "غلط: مالقيناش اليوزر"
+}

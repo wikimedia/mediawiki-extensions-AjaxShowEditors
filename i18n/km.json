@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chhorran",
+			"Lovekhmer",
+			"គីមស៊្រុន"
+		]
+	},
+	"ajaxshoweditors-desc": "បង្ហាញ​អ្នកប្រើប្រាស់​ដែលកំពុង​កែប្រែ​ទំព័រដូចគ្នា",
+	"ajax-se-title": "បច្ចុប្បន្នកំពុង​កែប្រែ៖",
+	"ajax-se-idling": "($1វិនាទីកន្លងទៅ)",
+	"ajax-se-pagedoesnotexist": "ទំព័រមិនមាន",
+	"ajax-se-usernotfound": "កំហុស៖ អ្នកប្រើប្រាស់មិនត្រូវបានរកឃើញទេ"
+}
