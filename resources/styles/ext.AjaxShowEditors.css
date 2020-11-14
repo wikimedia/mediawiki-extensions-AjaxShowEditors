@@ -6,6 +6,10 @@
 	background-color: #f0f0f0;
 }
 
+.client-nojs #ajax-se {
+	display: none;
+}
+
 #ajax-se-title {
 	font-size: small;
 	display: inline;
