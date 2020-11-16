@@ -10,6 +10,8 @@ class ApiAjaxShowEditors extends ApiBase {
 
 	/**
 	 * Main entry point.
+	 *
+	 * @return bool
 	 */
 	public function execute() {
 		// Need to have sufficient user rights to proceed...
@@ -57,6 +59,7 @@ class ApiAjaxShowEditors extends ApiBase {
 	}
 
 	/**
+	 * @inheritDoc
 	 * @see ApiBase::getExamplesMessages()
 	 */
 	protected function getExamplesMessages() {

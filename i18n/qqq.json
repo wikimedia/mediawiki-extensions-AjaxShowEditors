@@ -15,5 +15,5 @@
 	"apihelp-ajaxshoweditors-summary": "{{doc-apihelp-summary|ajaxshoweditors}}",
 	"apihelp-ajaxshoweditors-param-pageid": "{{doc-apihelp-param|ajaxshoweditors|pageid}}",
 	"apihelp-ajaxshoweditors-param-username": "{{doc-apihelp-param|ajaxshoweditors|username}}",
-	"apihelp-ajaxshoweditors-example-1": "{{doc-apihelp-example|ajaxshoweditors}}",
+	"apihelp-ajaxshoweditors-example-1": "{{doc-apihelp-example|ajaxshoweditors}}"
 }

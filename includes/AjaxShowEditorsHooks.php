@@ -16,9 +16,9 @@ class AjaxShowEditorsHooks {
 	 */
 	public static function onPageContentSave( $page, User $user ) {
 		global $wgCommandLineMode;
-	
+
 		if ( $wgCommandLineMode ) {
-			return true;
+			return;
 		}
 
 		$dbw = wfGetDB( DB_MASTER );
@@ -35,7 +35,7 @@ class AjaxShowEditorsHooks {
 	/**
 	 * Load AjaxShowEditors' CSS and JS assets on ?action=edit and also on ?action=submit (preview)
 	 *
-	 * @param OutputPage $out
+	 * @param OutputPage $out
 	 * @param Skin $skin
 	 */
 	public static function onBeforePageDisplay( OutputPage $out, Skin $skin ) {

@@ -39,8 +39,8 @@ wgAjaxShowEditors.countup = function () {
 
 	var elEditorsList = document.getElementById( 'ajax-se-editors' );
 	for ( var i = 0; i < elEditorsList.childNodes.length; i++ ) {
-		var item = elEditorsList.childNodes[i];
-		if ( item.nodeName == 'SPAN' ) {
+		var item = elEditorsList.childNodes[ i ];
+		if ( item.nodeName === 'SPAN' ) {
 			var value = parseInt( item.innerHTML );
 			value++;
 			item.innerHTML = value;

@@ -82,7 +82,8 @@ class AjaxShowEditors {
 					],
 					__METHOD__
 				);
-				continue; // we will not show the user
+				// we will not show the user
+				continue;
 			}
 
 			if ( $first ) {

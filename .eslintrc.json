@@ -1,0 +1,26 @@
+{
+	"root": true,
+	"extends": [
+		"wikimedia",
+		"wikimedia/mediawiki"
+	],
+	"env": {
+		"browser": true,
+		"jquery": true
+	},
+	"globals": {
+		"mediaWiki": false
+	},
+	"rules": {
+		"quote-props": [
+			"error",
+			"as-needed",
+			{
+				"keywords": false
+			}
+		],
+		"no-implicit-globals": "off",
+		"vars-on-top": "off",
+		"one-var": "off"
+	}
+}
