@@ -13,5 +13,9 @@
 	"ajax-se-pending": "Die Aktualisierung steht aus … Klicke auf diesen Kasten oder beginne mit dem Bearbeiten.",
 	"ajax-se-idling": "(vor $1 Sekunden)",
 	"ajax-se-pagedoesnotexist": "Die Seite ist nicht vorhanden.",
-	"ajax-se-usernotfound": "Fehler: Der Benutzer wurde nicht gefunden."
+	"ajax-se-usernotfound": "Fehler: Der Benutzer wurde nicht gefunden.",
+	"apihelp-ajaxshoweditors-summary": "Abrufen der Liste der Benutzer, die derzeit die angegebene Seite bearbeiten",
+	"apihelp-ajaxshoweditors-param-pageid": "Numerische Kennung für die Seite, die gerade bearbeitet wird",
+	"apihelp-ajaxshoweditors-param-username": "Name des aktuellen Benutzers, der die Seite bearbeitet",
+	"apihelp-ajaxshoweditors-example-1": "Holen der Liste der Benutzer (als HTML), die die Seite mit der ID #666 bearbeiten"
 }

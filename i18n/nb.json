@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Jon Harald Søby"
+		]
 	},
 	"ajaxshoweditors-desc": "Vis hvilke brukere som redigerer samme side",
 	"ajax-se-title": "Redigerer:",

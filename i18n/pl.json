@@ -3,6 +3,7 @@
 		"authors": [
 			"Derbeth",
 			"McMonster",
+			"Rail",
 			"Sp5uhe",
 			"Wpedzich"
 		]
@@ -12,5 +13,9 @@
 	"ajax-se-pending": "oczekiwanie na odświeżenie... (kliknij na tę ramkę lub zacznij edycję)",
 	"ajax-se-idling": "($1s temu)",
 	"ajax-se-pagedoesnotexist": "strona nie istnieje",
-	"ajax-se-usernotfound": "Błąd – nie znaleziono użytkownika"
+	"ajax-se-usernotfound": "Błąd – nie znaleziono użytkownika",
+	"apihelp-ajaxshoweditors-summary": "Pozyskaj listę użytkowników obecnie edytujących podaną stronę",
+	"apihelp-ajaxshoweditors-param-pageid": "Identyfikator strony, która jest edytowana",
+	"apihelp-ajaxshoweditors-param-username": "Nazwa użytkownika edytującego stronę",
+	"apihelp-ajaxshoweditors-example-1": "Pozyskaj listę użytkowników (w formacie HTML) edytujących stronę o ID #666"
 }
