@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Rapunzel",
 			"Sanbec"
 		]
 	},
-	"ajaxshoweditors-desc": "Muestra a los usuarios que están editando quién más está editando la misma página",
+	"ajaxshoweditors-desc": "Muestra a los usuarios que están editando la misma página",
 	"ajax-se-title": "Editando actualmente:",
 	"ajax-se-pending": "refresco pendiente... (pulsa en esta caja o comienza a editar)",
 	"ajax-se-idling": "(hace $1)",

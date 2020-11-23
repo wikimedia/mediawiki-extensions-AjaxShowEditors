@@ -1,13 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Eduardo.mps"
+			"Eduardo Addad de Oliveira",
+			"Eduardo.mps",
+			"Stanglavine"
 		]
 	},
-	"ajaxshoweditors-desc": "Mostra utilizadores que estão editando a mesma página",
+	"ajaxshoweditors-desc": "Mostra a edição de usuários que estão editando a mesma página",
 	"ajax-se-title": "Editando no momento:",
 	"ajax-se-pending": "atualização pendente... (clique neste box ou inicie a edição)",
 	"ajax-se-idling": "($1 segundos atrás)",
 	"ajax-se-pagedoesnotexist": "página não existe",
-	"ajax-se-usernotfound": "Erro: utilizador não encontrado"
+	"ajax-se-usernotfound": "Erro: utilizador não encontrado",
+	"apihelp-ajaxshoweditors-summary": "Obter a lista de usuários que estão editando uma determinada página",
+	"apihelp-ajaxshoweditors-param-pageid": "Identificador numérico da página que está sendo editada",
+	"apihelp-ajaxshoweditors-param-username": "Nome do usuário que está editando a página",
+	"apihelp-ajaxshoweditors-example-1": "Obtenha a lista de usuários (como HTML) que estão editando a página que possui o ID #666"
 }
