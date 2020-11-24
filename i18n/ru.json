@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Kaganer",
+			"Rubin16",
 			"Александр Сигачёв"
 		]
 	},
@@ -10,5 +11,9 @@
 	"ajax-se-pending": "ожидание обновления... (нажмите здесь или начните редактирование)",
 	"ajax-se-idling": "($1 с назад)",
 	"ajax-se-pagedoesnotexist": "страница не существует",
-	"ajax-se-usernotfound": "ОШБ: участник не найден"
+	"ajax-se-usernotfound": "ОШБ: участник не найден",
+	"apihelp-ajaxshoweditors-summary": "Получить список пользователей, которые в данный момент редактируют данную страницу",
+	"apihelp-ajaxshoweditors-param-pageid": "Числовой идентификатор редактируемой страницы",
+	"apihelp-ajaxshoweditors-param-username": "Имя пользователя, который редактирует страницу",
+	"apihelp-ajaxshoweditors-example-1": "Получить список пользователей (в формате HTML), редактирующих страницу с ID # 666."
 }
