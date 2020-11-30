@@ -1,8 +1,10 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Func"
+		]
 	},
-	"ajaxshoweditors-desc": "列出正在编辑同一個页面的用户",
+	"ajaxshoweditors-desc": "列出正在编辑同一个页面的用户",
 	"ajax-se-title": "当前编辑中:",
 	"ajax-se-pending": "正在正在刷新 ... （单击这个框或开始编辑）",
 	"ajax-se-idling": "（$1秒前）",
