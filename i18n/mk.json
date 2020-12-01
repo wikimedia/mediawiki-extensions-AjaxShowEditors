@@ -5,10 +5,14 @@
 			"Brest"
 		]
 	},
-	"ajaxshoweditors-desc": "Прикажува активни корисници кои уредуваат иста страница",
+	"ajaxshoweditors-desc": "Прикажува корисници кои уредуваат иста страница",
 	"ajax-se-title": "Во моментот уредуваат:",
 	"ajax-se-pending": "во исчекување на превчитувањето… (кликнете ја кутијава за да започнете со уредувањето)",
 	"ajax-se-idling": "(пред $1s)",
 	"ajax-se-pagedoesnotexist": "страницата не постои",
-	"ajax-se-usernotfound": "Грешка: не е пронајден корисник"
+	"ajax-se-usernotfound": "Грешка: не е пронајден корисник",
+	"apihelp-ajaxshoweditors-summary": "Дава список на корисници кои тековно ја уредуваат дадената страница",
+	"apihelp-ajaxshoweditors-param-pageid": "Бројчена назнака на страницата која се уредува",
+	"apihelp-ajaxshoweditors-param-username": "Име на тековниот корисник кој ја уредува страницата",
+	"apihelp-ajaxshoweditors-example-1": "Дава список на корисници (како HTML) кои ја уредуваат страницата со назнака #666"
 }
