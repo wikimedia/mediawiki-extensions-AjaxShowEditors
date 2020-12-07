@@ -7,10 +7,14 @@
 			"Vitorvicentevalente"
 		]
 	},
-	"ajaxshoweditors-desc": "Mostra utilizadores que estão a editar a mesma página",
+	"ajaxshoweditors-desc": "Mostra os editores que estão a editar a mesma página",
 	"ajax-se-title": "Neste momento está a editar:",
 	"ajax-se-pending": "actualização pendente... (clique esta caixa ou comece a editar)",
 	"ajax-se-idling": "($1 segundos atrás)",
 	"ajax-se-pagedoesnotexist": "página não existe",
-	"ajax-se-usernotfound": "Erro: utilizador não encontrado"
+	"ajax-se-usernotfound": "Erro: utilizador não encontrado",
+	"apihelp-ajaxshoweditors-summary": "Obter a lista de utilizadores que estão presentemente a editar a página especificada",
+	"apihelp-ajaxshoweditors-param-pageid": "Identificador numérico da página que está a ser editada",
+	"apihelp-ajaxshoweditors-param-username": "Nome do utilizador atual que está a editar a página",
+	"apihelp-ajaxshoweditors-example-1": "Obter a lista de utilizadores (em formato HTML) que estão a editar a página que tem o identificador nº 666"
 }
