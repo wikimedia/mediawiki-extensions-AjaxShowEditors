@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"EugeneZelenko",
-			"Jim-by"
+			"Jim-by",
+			"Renessaince"
 		]
 	},
-	"ajaxshoweditors-desc": "Паказвае ўдзельнікаў, якія рэдагуюць адну старонку",
+	"ajaxshoweditors-desc": "Паказвае ўдзельнікаў, якія рэдагуюць адну і тую ж старонку",
 	"ajax-se-title": "Цяпер рэдагуюць:",
 	"ajax-se-pending": "чаканьне абнаўленьня... (націсьніце тут альбо пачніце рэдагаваньне)",
 	"ajax-se-idling": "($1 таму)",
