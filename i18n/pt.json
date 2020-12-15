@@ -9,7 +9,7 @@
 	},
 	"ajaxshoweditors-desc": "Mostra os editores que estão a editar a mesma página",
 	"ajax-se-title": "Neste momento está a editar:",
-	"ajax-se-pending": "actualização pendente... (clique esta caixa ou comece a editar)",
+	"ajax-se-pending": "atualização pendente... (clique esta caixa ou comece a editar)",
 	"ajax-se-idling": "($1 segundos atrás)",
 	"ajax-se-pagedoesnotexist": "página não existe",
 	"ajax-se-usernotfound": "Erro: utilizador não encontrado",
