@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Huji",
+			"Jeeputer",
 			"Mardetanha",
 			"Sahim"
 		]
@@ -11,5 +12,6 @@
 	"ajax-se-pending": "در انتظار بازیابی... (این جعبه را انتخاب کنید یا اینکه ویرایش‌کردن را شروع کنید)",
 	"ajax-se-idling": "(ثانیه قبل$1)",
 	"ajax-se-pagedoesnotexist": "صفحه وجود ندارد",
-	"ajax-se-usernotfound": "خطا: کاربر یافت نشد"
+	"ajax-se-usernotfound": "خطا: کاربر یافت نشد",
+	"apihelp-ajaxshoweditors-param-username": "نام کاربری که اکنون در حال ویرایش صفحه است"
 }
