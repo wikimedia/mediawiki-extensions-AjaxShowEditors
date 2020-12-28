@@ -3,6 +3,7 @@
 		"authors": [
 			"Fitoschido",
 			"Rapunzel",
+			"Rodney Araujo",
 			"Sanbec"
 		]
 	},
@@ -12,5 +13,6 @@
 	"ajax-se-idling": "(hace $1)",
 	"ajax-se-pagedoesnotexist": "no existe la página",
 	"ajax-se-usernotfound": "Error: usuario no encontrado",
-	"apihelp-ajaxshoweditors-param-pageid": "Identificador numérico de la página que está editándose"
+	"apihelp-ajaxshoweditors-param-pageid": "Identificador numérico de la página que está editándose",
+	"apihelp-ajaxshoweditors-param-username": "Nombre del usuario actual quién está editando la página"
 }
