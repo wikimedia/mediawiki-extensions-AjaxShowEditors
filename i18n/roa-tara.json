@@ -4,10 +4,14 @@
 			"Joetaras"
 		]
 	},
-	"ajaxshoweditors-desc": "Fa vedè le utinde ca stonne a cangene 'a stessa pàgene",
+	"ajaxshoweditors-desc": "Fa 'ndrucà le utinde ca stonne a cangiane 'a stessa pàgene",
 	"ajax-se-title": "Cangiamende de mò:",
 	"ajax-se-pending": "aggiornamende in attese… (cazze sta scatole o accuminze 'u cangiamende)",
 	"ajax-se-idling": "($1 passate)",
 	"ajax-se-pagedoesnotexist": "'A pàgene non g'esiste",
-	"ajax-se-usernotfound": "Errore:utende ca non g'esiste"
+	"ajax-se-usernotfound": "Errore:utende ca non g'esiste",
+	"apihelp-ajaxshoweditors-summary": "Pigghie l'elenghe de le utinde ca stonne e cangiane mò 'na certa pàgene",
+	"apihelp-ajaxshoweditors-param-pageid": "Idendificatore numereche pa pàgene ca ste accumenze a essere cangiate",
+	"apihelp-ajaxshoweditors-param-username": "Nome de l'utende de mò ca ste cange 'a pàgene",
+	"apihelp-ajaxshoweditors-example-1": "Pigghie l'elenghe de le utinde (cumme HTML) ca stonne e cangiane mò 'a pàgene cu l'ID #666"
 }
