@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jan Friberg"
+			"Jan Friberg",
+			"Saederup92"
 		]
 	},
-	"ajaxshoweditors-desc": "Vis hvilke brugere som redigerer samme side",
+	"ajaxshoweditors-desc": "Viser hvilke brugere som redigerer samme side",
 	"ajax-se-title": "Redigere lige nu:",
 	"ajax-se-pending": "afventer genindlæsning… (klik på denne boks eller påbegynd redigering)",
 	"ajax-se-idling": "($1s siden)",
