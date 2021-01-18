@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Func",
-			"Yfdyh000"
+			"Yfdyh000",
+			"Yining Chen"
 		]
 	},
 	"ajaxshoweditors-desc": "列出正在编辑同一个页面的用户",
@@ -13,5 +14,6 @@
 	"ajax-se-usernotfound": "错误:该用户不存在",
 	"apihelp-ajaxshoweditors-summary": "获取目前正在编辑指定页面的用户列表",
 	"apihelp-ajaxshoweditors-param-pageid": "正在编辑页面的数字标识符",
-	"apihelp-ajaxshoweditors-param-username": "正在编辑该页面的用户名称"
+	"apihelp-ajaxshoweditors-param-username": "正在编辑该页面的用户名称",
+	"apihelp-ajaxshoweditors-example-1": "获取正在编辑ID为#666的页面的用户列表（HTML格式）。"
 }

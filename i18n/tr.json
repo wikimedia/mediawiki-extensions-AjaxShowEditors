@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Hedda",
 			"Joseph",
 			"MuratTheTurkish",
 			"Srhat"
@@ -8,7 +9,7 @@
 	},
 	"ajaxshoweditors-desc": "Aynı sayfayı düzenleyen kullanıcıları gösterir",
 	"ajax-se-title": "Şu an düzenleyen:",
-	"ajax-se-pending": "yenileme bekleniyor ... (bu kutuya tıklayın veya düzenlemeye başlayın)",
+	"ajax-se-pending": "yenileme bekleniyor... (bu kutuya tıklayın veya düzenlemeye başlayın)",
 	"ajax-se-idling": "($1s önce)",
 	"ajax-se-pagedoesnotexist": "sayfa mevcut değil",
 	"ajax-se-usernotfound": "Hata: kullanıcı bulunamadı",
