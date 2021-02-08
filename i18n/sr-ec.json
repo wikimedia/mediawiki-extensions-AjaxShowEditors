@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kizule",
 			"Rancher",
 			"Sasa Stefanovic"
 		]
 	},
-	"ajaxshoweditors-desc": "Показује кориснике који тренутно уређују исту страницу",
+	"ajaxshoweditors-desc": "Приказује кориснике који тренутно уређују исту страницу",
 	"ajax-se-title": "Тренутно уређују:",
 	"ajax-se-pending": "чека се освежавање ... (кликните овде или почните са уређивањем)",
 	"ajax-se-idling": "(пре $1 сек)",
