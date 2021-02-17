@@ -13,11 +13,11 @@
 	"ajaxshoweditors-desc": "Visualise les utilisateurs qui sont en train de modifier la même page",
 	"ajax-se-title": "En cours de modification par :",
 	"ajax-se-pending": "Actualisation en attente... (cliquez sur ce message ou modifiez la page)",
-	"ajax-se-idling": "(il y a $1 s)",
+	"ajax-se-idling": "(il y a $1 s)",
 	"ajax-se-pagedoesnotexist": "la page n’existe pas",
 	"ajax-se-usernotfound": "Erreur : utilisateur introuvable",
 	"apihelp-ajaxshoweditors-summary": "Obtenir la liste des utilisateurs qui modifient actuellement la page fournie",
 	"apihelp-ajaxshoweditors-param-pageid": "Identifiant numérique pour la page qui est en cours de modification",
 	"apihelp-ajaxshoweditors-param-username": "Nom de l’utilisateur actuel qui modifie la page",
-	"apihelp-ajaxshoweditors-example-1": "Obtenir la liste des utilisateurs (au format HTML) qui modifient la page qui a l’ID 666"
+	"apihelp-ajaxshoweditors-example-1": "Obtenir la liste des utilisateurs (au format HTML) qui modifient la page qui a l’ID nº 666"
 }
