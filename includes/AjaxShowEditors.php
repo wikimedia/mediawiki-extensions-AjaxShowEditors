@@ -43,7 +43,7 @@ class AjaxShowEditors {
 		# This is done using a unique index on the database :
 		# `editings_page_started` (`editings_page`,`editings_actor`,`editings_started`)
 
-		$dbw = wfGetDB( DB_MASTER );
+		$dbw = wfGetDB( DB_PRIMARY );
 		$dbw->replace(
 			'editings',
 			[ 'editings_page', 'editings_actor', 'editings_started' ],
