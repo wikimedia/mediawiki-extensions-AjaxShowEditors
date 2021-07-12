@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Nickthijssen1994",
 			"Siebrand"
 		]
 	},
-	"ajaxshoweditors-desc": "Geeft gebruikers die een pagina bewerken aan, wie dezelfde pagina aan het bewerken is",
+	"ajaxshoweditors-desc": "Laat zien welke gebruikers dezelfde pagina aan het bewerken zijn",
 	"ajax-se-title": "Gebruikers die deze pagina aan het bewerken zijn:",
 	"ajax-se-pending": "Deze pagina moet nog bijgewerkt worden. Klik op deze knop of begin met bewerken.",
 	"ajax-se-idling": "($1s geleden)",
