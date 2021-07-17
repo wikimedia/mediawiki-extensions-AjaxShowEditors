@@ -14,7 +14,6 @@
 	"rules": {
 		"no-implicit-globals": "off",
 		"vars-on-top": "off",
-		"one-var": "off",
 		"compat/compat": "warn"
 	}
 }
