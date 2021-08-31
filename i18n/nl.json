@@ -13,6 +13,7 @@
 	"ajax-se-pagedoesnotexist": "pagina bestaat niet",
 	"ajax-se-usernotfound": "Fout: gebruiker niet gevonden",
 	"apihelp-ajaxshoweditors-summary": "Haal de lijst op van gebruikers die op dit moment de aangegeven pagina aan het bewerken zijn",
+	"apihelp-ajaxshoweditors-param-pageid": "Numerieke identificatiecode voor de pagina die wordt bewerkt",
 	"apihelp-ajaxshoweditors-param-username": "Naam van de gebruiker die de pagina op dit moment aan het bewerken is",
 	"apihelp-ajaxshoweditors-example-1": "Haal de lijst op van gebruikers (als HTML) die de pagina met ID #666 op dit moment bewerken"
 }
