@@ -13,5 +13,8 @@
 	"ajax-se-idling": "(ثانیه قبل$1)",
 	"ajax-se-pagedoesnotexist": "صفحه وجود ندارد",
 	"ajax-se-usernotfound": "خطا: کاربر یافت نشد",
-	"apihelp-ajaxshoweditors-param-username": "نام کاربری که اکنون در حال ویرایش صفحه است"
+	"apihelp-ajaxshoweditors-summary": "دریافت فهرست کاربرانی که اکنون در حال ویرایش صفحهٔ مشخص‌شده هستند",
+	"apihelp-ajaxshoweditors-param-pageid": "شناساگر عددی صفحه‌ای که در دست ویرایش است",
+	"apihelp-ajaxshoweditors-param-username": "نام کاربری که اکنون در حال ویرایش صفحه است",
+	"apihelp-ajaxshoweditors-example-1": "دریافت فهرست کاربرانی که در حال ویرایش صفحه‌ای هستند که دارای شناسهٔ #666 است (در قالب اچ‌تی‌ام‌ال)"
 }
