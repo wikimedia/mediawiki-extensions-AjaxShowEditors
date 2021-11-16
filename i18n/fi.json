@@ -4,10 +4,11 @@
 			"Cimon Avaro",
 			"Crt",
 			"MITO",
-			"Vililikku"
+			"Vililikku",
+			"Markus Mikkonen"
 		]
 	},
-	"ajaxshoweditors-desc": "Näyttää muokkauslaatikon yhteydessä ketkä muokkaavat samaa sivua samanaikaisesti",
+	"ajaxshoweditors-desc": "Näyttää muokkaavat käyttäjät ketkä muokkaavat samaa sivua",
 	"ajax-se-title": "Samanaikaiset muokkaajat:",
 	"ajax-se-pending": "odotetaan päivitystä… (napsauta tästä tai aloita muokkaaminen)",
 	"ajax-se-idling": "($1 s sitten)",
