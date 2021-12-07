@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Li-sung",
-			"Matěj Grabovský"
+			"Matěj Grabovský",
+			"Robert Knobloch"
 		]
 	},
-	"ajaxshoweditors-desc": "Zobrazuje uživatele, kteří upravují stejnou stránku",
+	"ajaxshoweditors-desc": "Zobrazuje editory, kteří upravují stejnou stránku",
 	"ajax-se-title": "Právě edituje:",
 	"ajax-se-pending": "očekává se změna... (klikněte do tohoto pole nebo začněte editovat)",
 	"ajax-se-idling": "(před $1 s)",

@@ -4,7 +4,8 @@
 			"Broad-Sky",
 			"Fryed-peach",
 			"JtFuruhata",
-			"Shirayuki"
+			"Shirayuki",
+			"RYOUMA1117"
 		]
 	},
 	"ajaxshoweditors-desc": "同じページを編集している利用者を表示する",
@@ -12,5 +13,9 @@
 	"ajax-se-pending": "更新します… (この枠内をクリックするか編集を始めてください)",
 	"ajax-se-idling": "($1 秒前)",
 	"ajax-se-pagedoesnotexist": "このページは一度も保存されていません",
-	"ajax-se-usernotfound": "エラー: 利用者が見つかりません"
+	"ajax-se-usernotfound": "エラー: 利用者が見つかりません",
+	"apihelp-ajaxshoweditors-summary": "特定のページを現在編集しているユーザーのリストを取得します。",
+	"apihelp-ajaxshoweditors-param-pageid": "編集中ページの数値識別子",
+	"apihelp-ajaxshoweditors-param-username": "ページを編集している現在のユーザーの名前",
+	"apihelp-ajaxshoweditors-example-1": "ID:#666のページを編集しているユーザーのリストを（HTMLで）取得します"
 }

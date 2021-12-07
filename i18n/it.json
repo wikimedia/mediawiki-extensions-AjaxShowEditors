@@ -3,7 +3,8 @@
 		"authors": [
 			"Cruccone",
 			"FiloSottile",
-			"Pietrodn"
+			"Pietrodn",
+			"Gianfranco"
 		]
 	},
 	"ajaxshoweditors-desc": "Mostra gli utenti che stanno modificando la stessa pagina",
@@ -11,5 +12,7 @@
 	"ajax-se-pending": "in attesa di aggiornamento ... (fare clic su questa casella o iniziare la modifica)",
 	"ajax-se-idling": "(da $1 s)",
 	"ajax-se-pagedoesnotexist": "La pagina non esiste",
-	"ajax-se-usernotfound": "Errore: utente non trovato"
+	"ajax-se-usernotfound": "Errore: utente non trovato",
+	"apihelp-ajaxshoweditors-param-pageid": "Identificatore numerico per la pagina che si sta modificando",
+	"apihelp-ajaxshoweditors-param-username": "Nome dell'utente che sta modificando la pagina adesso"
 }
