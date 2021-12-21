@@ -10,5 +10,6 @@
 	"ajax-se-title": "Canciamentu 'n corsu:",
 	"ajax-se-pending": "'n attesa d'aggiornamentu ... (fari clic su chista casidda o ncignari lu canciamentu)",
 	"ajax-se-idling": "(di $1 s)",
-	"ajax-se-pagedoesnotexist": "la pàggina nun esisti"
+	"ajax-se-pagedoesnotexist": "la pàggina nun esisti",
+	"ajax-se-usernotfound": "Erruri: utenti nun attruvatu"
 }
