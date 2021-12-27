@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Daud I.F. Argana",
 			"Rex"
 		]
 	},
@@ -9,5 +10,9 @@
 	"ajax-se-pending": "pemuatan ulang ditunda ... (klik kotak ini atau mulai menyunting)",
 	"ajax-se-idling": "($1d lalu)",
 	"ajax-se-pagedoesnotexist": "halaman tidak ditemukan",
-	"ajax-se-usernotfound": "Kesalahan: pengguna tidak ditemukan"
+	"ajax-se-usernotfound": "Kesalahan: pengguna tidak ditemukan",
+	"apihelp-ajaxshoweditors-summary": "Mendapatkan siapa saja yang sedang menyunting halaman yang diberikan",
+	"apihelp-ajaxshoweditors-param-pageid": "Penanda numerik untuk halaman yang sedang disunting",
+	"apihelp-ajaxshoweditors-param-username": "Nama pengguna yang sedang menyunting halaman",
+	"apihelp-ajaxshoweditors-example-1": "Mendapatkan daftar pengguna (sebagai HTML) yang sedang menyunting halaman dengan ID #666"
 }
