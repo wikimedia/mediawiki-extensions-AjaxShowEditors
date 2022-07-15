@@ -2,6 +2,9 @@
 /**
  * Return a list of editors currently editing the article.
  */
+
+use MediaWiki\MediaWikiServices;
+
 class AjaxShowEditors {
 	/**
 	 * @param int $articleId Page ID number
@@ -65,6 +68,7 @@ class AjaxShowEditors {
 			__METHOD__
 		);
 
+		$linkRenderer = MediaWikiServices::getInstance()->getLinkRenderer();
 		$wikitext = '';
 		$unix_now = wfTimestamp( TS_UNIX );
 		$first = 1;
@@ -101,9 +105,9 @@ class AjaxShowEditors {
 				continue;
 			}
 
-			$wikitext .= ' ' . Linker::link(
+			$wikitext .= ' ' . $linkRenderer->makeLink(
 				$u->getUserPage(),
-				htmlspecialchars( $u->getName(), ENT_QUOTES )
+				$u->getName()
 			);
 
 			$wikitext .= ' ' . wfMessage( 'ajax-se-idling', '<span>' . $idle . '</span>' )->text();
