@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fulup"
+			"Fulup",
+			"Huñvreüs"
 		]
 	},
-	"ajaxshoweditors-desc": "Lakaat a ra war wel an implijerien zo o kemmañ an hevelep pajenn",
+	"ajaxshoweditors-desc": "Lakaat a ra war wel an implijerien a zo o kemmañ an hevelep pajenn",
 	"ajax-se-title": "Oc'h adaozañ :",
 	"ajax-se-pending": "trevell war ar stern ... (klikit war ar voest-mañ pe krogit da zegas kemmoù)",
 	"ajax-se-idling": "($1 zo)",
