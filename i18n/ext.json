@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Better"
+			"Better",
+			"Julio Nepote"
 		]
 	},
-	"ajax-se-title": "Uguañoti eitandu:",
+	"ajax-se-title": "Ara editandu:",
 	"ajax-se-idling": "(hazi $1s)"
 }
