@@ -2,7 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Meno25",
-			"Mido"
+			"Mido",
+			"Dr-Taher",
+			"NEHAOUA"
 		]
 	},
 	"ajaxshoweditors-desc": "يعرض المستخدمين الذين يعدلون نفس الصفحة",
@@ -10,5 +12,9 @@
 	"ajax-se-pending": "انتظار التحديث ... (اضغط على هذا الصندوق أو ابدأ في التحرير)",
 	"ajax-se-idling": "(منذ $1ث)",
 	"ajax-se-pagedoesnotexist": "الصفحة غير موجودة",
-	"ajax-se-usernotfound": "خطأ: المستخدم غير موجود"
+	"ajax-se-usernotfound": "خطأ: المستخدم غير موجود",
+	"apihelp-ajaxshoweditors-summary": "احصل على قائمة المستخدمين الذين يقومون حاليًا بتعديل الصفحة المحددة",
+	"apihelp-ajaxshoweditors-param-pageid": "معرّف رقمي للصفحة التي يجري تحريرها",
+	"apihelp-ajaxshoweditors-param-username": "اسم المستخدم الحالي الذي يقوم بتحرير الصفحة",
+	"apihelp-ajaxshoweditors-example-1": "احصل على قائمة المستخدمين (بتنسيق HTML) الذين يقومون بتحرير الصفحة ذات المعرف #666"
 }

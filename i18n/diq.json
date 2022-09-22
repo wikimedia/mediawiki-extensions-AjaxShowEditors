@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Erdemaslancan"
+			"Erdemaslancan",
+			"Mirzali"
 		]
 	},
+	"ajax-se-title": "Vurnayoğo nıkayên:",
 	"ajax-se-idling": "($1s veror)"
 }
