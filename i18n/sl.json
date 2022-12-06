@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dbc334"
+			"Dbc334",
+			"Eleassar"
 		]
 	},
 	"ajaxshoweditors-desc": "Prikaže uporabnike, ki urejajo enako stran",
@@ -9,5 +10,9 @@
 	"ajax-se-pending": "osvežitev v teku ... (kliknite to polje ali začnite urejati)",
 	"ajax-se-idling": "(pred $1 s)",
 	"ajax-se-pagedoesnotexist": "stran ne obstaja",
-	"ajax-se-usernotfound": "Napaka: uporabnika ni mogoče najti"
+	"ajax-se-usernotfound": "Napaka: uporabnika ni mogoče najti",
+	"apihelp-ajaxshoweditors-summary": "Pridobite seznam uporabnikov, ki trenutno urejajo dano stran",
+	"apihelp-ajaxshoweditors-param-pageid": "Številski identifikator za stran, ki jo urejate",
+	"apihelp-ajaxshoweditors-param-username": "Ime trenutnega uporabnika, ki ureja stran",
+	"apihelp-ajaxshoweditors-example-1": "Pridobite seznam uporabnikov (v formatu HTML), ki urejajo stran z ID št. 666"
 }
