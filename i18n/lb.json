@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Les Meloures",
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
-	"ajaxshoweditors-desc": "Weist déi Benotzer déi am Gaang sinn déiselwecht Säit z'änneren.",
+	"ajaxshoweditors-desc": "Weist d'Benotzer, déi am Gaang sinn déi selwecht Säit z'änneren",
 	"ajax-se-title": "Elo geännert vum:",
 	"ajax-se-pending": "soll geännert ginn ... (klickt op dës Këscht oder fänkt u mat änneren)",
 	"ajax-se-idling": "(viru(n) $1 Sekonnen)",
