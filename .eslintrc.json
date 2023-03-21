@@ -12,7 +12,6 @@
 		"mediaWiki": false
 	},
 	"rules": {
-		"no-implicit-globals": "off",
-		"compat/compat": "warn"
+		"no-implicit-globals": "off"
 	}
 }
