@@ -4,7 +4,8 @@
 			"Garas",
 			"Hugo.arg",
 			"Tomasdd",
-			"Vpovilaitis"
+			"Vpovilaitis",
+			"Nokeoo"
 		]
 	},
 	"ajaxshoweditors-desc": "Rodo redaguojančius naudotojus, kurie redaguoja tą patį puslapį",
@@ -12,5 +13,9 @@
 	"ajax-se-pending": "laukiama atnaujinimo... (paspauskite šį laukelį arba pradėkite redaguoti)",
 	"ajax-se-idling": "(prieš $1 s)",
 	"ajax-se-pagedoesnotexist": "puslapis neegzistuoja",
-	"ajax-se-usernotfound": "ERR: naudotojas nerastas"
+	"ajax-se-usernotfound": "ERR: naudotojas nerastas",
+	"apihelp-ajaxshoweditors-summary": "Gauti naudotojų, kurie šiuo metu redaguoja pateiktą puslapį, sąrašą",
+	"apihelp-ajaxshoweditors-param-pageid": "Skaitinis redaguojamo puslapio identifikatorius",
+	"apihelp-ajaxshoweditors-param-username": "Dabartinio naudotojo, kuris redaguoja puslapį, vardas",
+	"apihelp-ajaxshoweditors-example-1": "Gauti sąrašą naudotojų (kaip HTML), kurie redaguoja puslapį, kurio ID #666"
 }
