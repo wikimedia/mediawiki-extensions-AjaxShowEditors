@@ -4,5 +4,10 @@
 			"Narazeni"
 		]
 	},
-	"ajax-se-pagedoesnotexist": "ხასჷლა ვა რე"
+	"ajax-se-title": "ასეშო არედაქტირენა:",
+	"ajax-se-idling": "($1 წამიშ კინოხ)",
+	"ajax-se-pagedoesnotexist": "ხასჷლა ვა რე",
+	"ajax-se-usernotfound": "ჩილათა: მახვარებუქ ვეგორჷ",
+	"apihelp-ajaxshoweditors-summary": "თი მახვარებუეფიშ ერკებულიშ მეღება, ნამუეფჷთ ასეშო არედაქტირენა ათე ხასჷლას",
+	"apihelp-ajaxshoweditors-param-username": "თი მახვარებუშ ჯოხო, ნამუთ ასეშო არედაქტირენს ხასჷლას"
 }
