@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"ajaxshoweditors-desc": "Prikazuje korisnike koji trenutno uređuju istu stranicu",
+	"ajax-se-title": "Trenutno uređuju:",
+	"ajax-se-pending": "čekanje na osvježavanje... (kliknite na ovu kutiju ili započnite uređivanje)",
+	"ajax-se-idling": "(prije $1s)",
+	"ajax-se-pagedoesnotexist": "stranica ne postoji",
+	"ajax-se-usernotfound": "Greška: nije pronađen korisnik",
+	"apihelp-ajaxshoweditors-summary": "Dobijte popis korisnika koji trenutno uređuju datu stranicu"
+}
