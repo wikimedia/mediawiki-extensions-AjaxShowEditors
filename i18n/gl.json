@@ -6,10 +6,14 @@
 			"Xosé"
 		]
 	},
-	"ajaxshoweditors-desc": "Mostrar os usuarios que están editando a mesma páxina",
+	"ajaxshoweditors-desc": "Amosa os usuarios que están editando a mesma páxina",
 	"ajax-se-title": "Neste momento está a editar:",
-	"ajax-se-pending": "pendente de refresco... (faga clic nesta caixa ou comece a editar)",
+	"ajax-se-pending": "pendente de actualización… (faga clic nesta caixa ou comece a editar)",
 	"ajax-se-idling": "(hai $1s)",
 	"ajax-se-pagedoesnotexist": "a páxina non existe",
-	"ajax-se-usernotfound": "ERRO: o usuario non foi atopado"
+	"ajax-se-usernotfound": "Erro: Non se atopou o usuario",
+	"apihelp-ajaxshoweditors-summary": "Obter a lista de usuarios que están editando a páxina indicada",
+	"apihelp-ajaxshoweditors-param-pageid": "Identificador numérico da páxina que se está a editar",
+	"apihelp-ajaxshoweditors-param-username": "Nome do usuario que está a editar actualmente a páxina",
+	"apihelp-ajaxshoweditors-example-1": "Obter a lista de usuarios (como HTML) que están a editar a páxina que ten o identificador #666"
 }
