@@ -3,11 +3,12 @@
 		"authors": [
 			"Arnobarnard",
 			"Naudefj",
+			"Rooiratel",
 			"SPQRobin"
 		]
 	},
 	"ajaxshoweditors-desc": "Wys gebruikers wat dieselfde bladsy wysig",
-	"ajax-se-title": "Op dit moment besig om te wysig:",
+	"ajax-se-title": "Op dit oomblik besig om te wysig:",
 	"ajax-se-pending": "moet nog bygewerk word… (klik hier of begin met wysigings)",
 	"ajax-se-idling": "($1s gelede)",
 	"ajax-se-pagedoesnotexist": "bladsy bestaan nie",
