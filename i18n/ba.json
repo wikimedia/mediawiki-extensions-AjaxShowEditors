@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Assele"
+			"Assele",
+			"З. ӘЙЛЕ"
 		]
 	},
 	"ajaxshoweditors-desc": "Бер үк битте мөхәррирләүсе ҡатнашыусыларҙы күрһәтә",
 	"ajax-se-title": "Әлеге ваҡытта мөхәррирләйҙәр:",
 	"ajax-se-pending": "яңыртыуҙы көтөү... (ошонда баҫығыҙ йәки мөхәррирләй башлағыҙ)",
-	"ajax-se-idling": "($1 элек)",
+	"ajax-se-idling": "($1 с элек)",
 	"ajax-se-pagedoesnotexist": "был бит юҡ",
 	"ajax-se-usernotfound": "Хата: ҡатнашыусы табылманы"
 }
