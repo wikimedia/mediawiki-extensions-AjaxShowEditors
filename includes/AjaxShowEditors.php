@@ -49,7 +49,7 @@ class AjaxShowEditors {
 		$dbw = wfGetDB( DB_PRIMARY );
 		$dbw->replace(
 			'editings',
-			[ 'editings_page', 'editings_actor', 'editings_started' ],
+			[ [ 'editings_page', 'editings_actor', 'editings_started' ] ],
 			[
 				'editings_page' => $title->getArticleID(),
 				'editings_actor' => $user->getActorId(),

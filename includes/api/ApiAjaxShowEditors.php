@@ -53,7 +53,9 @@ class ApiAjaxShowEditors extends ApiBase {
 			],
 			'username' => [
 				ApiBase::PARAM_TYPE => 'string',
-				ApiBase::PARAM_REQUIRED => true
+				// *NOT* doing this so that the "Error: user not found" string
+				// gets correctly output for anons
+				// ApiBase::PARAM_REQUIRED => true
 			]
 		];
 	}
