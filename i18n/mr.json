@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Kaustubh",
-			"Mahitgar"
+			"Mahitgar",
+			"Amire80"
 		]
 	},
-	"ajaxshoweditors-desc": "हेच पान संपादीत करित असलेले  सदस्य दाखवा",
+	"ajaxshoweditors-desc": "हेच पान संपादीत करित असलेले सदस्य दाखवा",
 	"ajax-se-title": "सध्या संपादत आहे:",
 	"ajax-se-pending": "ताजेतवाने करण्याचे बाकी ... (या पेटीवर टिचकी द्या अथवा संपादन सुरू करा)",
 	"ajax-se-idling": "$1च्या पूर्वी",
