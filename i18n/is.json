@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"S.Örvarr.S"
+			"S.Örvarr.S",
+			"Stefán Örvar Sigmundsson"
 		]
 	},
 	"ajaxshoweditors-desc": "Sýnir notendur sem eru að breyta sömu síðu",
