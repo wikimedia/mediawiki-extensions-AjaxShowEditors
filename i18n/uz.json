@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jamshiduralovofficial"
+			"Jamshiduralovofficial",
+			"Malikxan"
 		]
 	},
 	"ajaxshoweditors-desc": "Xuddi shu sahifani tahrir qilayotgan foydalanuvchilarni tahrirlashini ko'rsatadi",
+	"ajax-se-pagedoesnotexist": "sahifa yaratilmagan",
 	"apihelp-ajaxshoweditors-summary": "Hozirda ushbu sahifani tahrir qilayotgan foydalanuvchilar ro'yxatini oling",
 	"apihelp-ajaxshoweditors-param-username": "Sahifani tahrir qilayotgan joriy foydalanuvchi nomi",
 	"apihelp-ajaxshoweditors-example-1": "ID raqami 666 bo'lgan sahifani tahrir qilayotgan foydalanuvchilar ro'yxatini (HTML sifatida) oling"
