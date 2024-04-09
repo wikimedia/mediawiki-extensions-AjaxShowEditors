@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mehtab ahmed"
+		]
+	},
+	"ajaxshoweditors-desc": "سنواريندڙ ڏيکاري ٿو جيڪي ساڳي صفحي کي سنواري رهيا آهن",
+	"ajax-se-title": "ھن وقت سنواريندي:",
+	"ajax-se-pending": "ريفريش جي انتظار ۾... (هن باڪس تي ڪلڪ ڪريو يا سنوارڻ شروع ڪريو)",
+	"ajax-se-idling": "($1 سيڪنڊ اڳ)",
+	"ajax-se-pagedoesnotexist": "اهو صفحو اڃا وجود نہ ٿو رکي",
+	"ajax-se-usernotfound": "چُڪَ: واپرائيندڙ نہ لڌو",
+	"apihelp-ajaxshoweditors-summary": "انهن واپرائيندڙن جي فھرست حاصل ڪريو جيڪي هن وقت ڏنل صفحي کي سنواري رهيا آهن",
+	"apihelp-ajaxshoweditors-param-pageid": "ان صفحي لاءِ عددي سڃاڻپ ڪندڙ جيڪو سنواريو پيو وڃي",
+	"apihelp-ajaxshoweditors-param-username": "موجوده واپرائيندڙ جو نالو جيڪو صفحي کي سنواري رهيو آهي",
+	"apihelp-ajaxshoweditors-example-1": "واپرائيندڙن جي فھرست حاصل ڪريو (جيئن HTML) جيڪي صفحي کي سنواري رھيا آھن جنھن جي ID #666 آھي"
+}
