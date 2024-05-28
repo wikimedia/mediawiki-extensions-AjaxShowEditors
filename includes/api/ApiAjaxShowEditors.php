@@ -30,7 +30,7 @@ class ApiAjaxShowEditors extends ApiBase {
 		}
 
 		// We don't validate the username here
-		$username = $params['username'];
+		$username = $params['username'] ?? '';
 
 		$output = AjaxShowEditors::getEditorListHTML( $pageId, $username );
 
@@ -52,10 +52,7 @@ class ApiAjaxShowEditors extends ApiBase {
 				ApiBase::PARAM_REQUIRED => true
 			],
 			'username' => [
-				ApiBase::PARAM_TYPE => 'string',
-				// *NOT* doing this so that the "Error: user not found" string
-				// gets correctly output for anons
-				// ApiBase::PARAM_REQUIRED => true
+				ApiBase::PARAM_TYPE => 'string'
 			]
 		];
 	}
@@ -66,7 +63,7 @@ class ApiAjaxShowEditors extends ApiBase {
 	 */
 	protected function getExamplesMessages() {
 		return [
-			'action=ajaxshoweditors&pageid=666&username=Foo%20Bar' => 'apihelp-ajaxshoweditors-example-1'
+			'action=ajaxshoweditors&pageid=666' => 'apihelp-ajaxshoweditors-example-1'
 		];
 	}
 

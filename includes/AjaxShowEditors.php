@@ -8,7 +8,7 @@ use MediaWiki\MediaWikiServices;
 class AjaxShowEditors {
 	/**
 	 * @param int $articleId Page ID number
-	 * @param string $username
+	 * @param string $username Current user's username (only for registered users)
 	 * @return string Properly escaped HTML suitable for output
 	 */
 	public static function getEditorListHTML( $articleId, $username ) {
@@ -16,48 +16,55 @@ class AjaxShowEditors {
 
 		// Validate request
 		$title = Title::newFromID( $articleId );
-		if ( !( $title ) ) {
+		if ( !$title ) {
 			return wfMessage( 'ajax-se-pagedoesnotexist' )->escaped();
 		}
 
 		$user = User::newFromName( $username );
-		if ( !$user || !$user instanceof User ) {
-			return wfMessage( 'ajax-se-usernotfound' )->escaped();
+		// Previously we used to check that $user was a valid User object and if not,
+		// show an error message. *But* an obvious problem with that approach was that
+		// it meant erroring out always in case of an anon tried to edit a page and view
+		// the list of registered users currently editing the article.
+		// The fix: *don't* show an error here and *do* allow getting the list from
+		// DB _without_ adding any information about the current user to the DB when
+		// $username is literally ''.
+		// @todo FIXME: But shouldn't we store some info about anons anyway, i.e.
+		// if we have multiple IP addresses trying to edit the page at the same time?
+		if ( $user && $user instanceof User ) {
+			// When did the user start editing?
+			$dbr = wfGetDB( DB_REPLICA );
+			$userStarted = $dbr->selectField(
+				'editings',
+				'editings_started',
+				[
+					'editings_actor' => $user->getActorId(),
+					'editings_page' => $title->getArticleID(),
+				],
+				__METHOD__
+			);
+
+			// They just started editing, assume NOW
+			if ( !$userStarted ) {
+				$userStarted = $dbr->timestamp();
+			}
+
+			# Either create a new entry or update the touched timestamp.
+			# This is done using a unique index on the database :
+			# `editings_page_started` (`editings_page`,`editings_actor`,`editings_started`)
+
+			$dbw = wfGetDB( DB_PRIMARY );
+			$dbw->replace(
+				'editings',
+				[ [ 'editings_page', 'editings_actor', 'editings_started' ] ],
+				[
+					'editings_page' => $title->getArticleID(),
+					'editings_actor' => $user->getActorId(),
+					'editings_started' => $userStarted,
+					'editings_touched' => $dbw->timestamp(),
+				],
+				__METHOD__
+			);
 		}
-
-		// When did the user start editing?
-		$dbr = wfGetDB( DB_REPLICA );
-		$userStarted = $dbr->selectField(
-			'editings',
-			'editings_started',
-			[
-				'editings_actor' => $user->getActorId(),
-				'editings_page' => $title->getArticleID(),
-			],
-			__METHOD__
-		);
-
-		// They just started editing, assume NOW
-		if ( !$userStarted ) {
-			$userStarted = $dbr->timestamp();
-		}
-
-		# Either create a new entry or update the touched timestamp.
-		# This is done using a unique index on the database :
-		# `editings_page_started` (`editings_page`,`editings_actor`,`editings_started`)
-
-		$dbw = wfGetDB( DB_PRIMARY );
-		$dbw->replace(
-			'editings',
-			[ [ 'editings_page', 'editings_actor', 'editings_started' ] ],
-			[
-				'editings_page' => $title->getArticleID(),
-				'editings_actor' => $user->getActorId(),
-				'editings_started' => $userStarted,
-				'editings_touched' => $dbw->timestamp(),
-			],
-			__METHOD__
-		);
 
 		// Now we get the list of all editing users
 		$dbr = wfGetDB( DB_REPLICA );

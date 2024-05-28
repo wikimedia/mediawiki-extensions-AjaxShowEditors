@@ -11,7 +11,6 @@
 	"ajax-se-pending": "Shown when editing a page (<code>?action=edit</code> in the URL) and when previewing a page (<code>?action=submit</code> in the URL). If you 'click this box' it will update and show you which users are editing the same page as you. It will also update if you change the contents of the edit field.",
 	"ajax-se-idling": "Shown when editing a page (<code>?action=edit</code> in the URL) and when previewing a page (<code>?action=submit</code> in the URL). $1 is the amount of seconds that has passed since a user started editing the page.",
 	"ajax-se-pagedoesnotexist": "Error message at least theoretically returnable by the API module when an invalid page ID is passed to it. In reality I have a feeling this message never gets shown to the end-user, so...",
-	"ajax-se-usernotfound": "Error message at least theoretically returnable by the API module when an invalid user name is passed to it and thus it cannot construct a valid User object from it. In reality I have a feeling this message never gets shown to the end-user, so...",
 	"apihelp-ajaxshoweditors-summary": "{{doc-apihelp-summary|ajaxshoweditors}}",
 	"apihelp-ajaxshoweditors-param-pageid": "{{doc-apihelp-param|ajaxshoweditors|pageid}}",
 	"apihelp-ajaxshoweditors-param-username": "{{doc-apihelp-param|ajaxshoweditors|username}}",
