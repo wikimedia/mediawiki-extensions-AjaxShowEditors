@@ -8,6 +8,5 @@
 	"ajax-se-title": "Modificare curentă:",
 	"ajax-se-pending": "reîncărcare în așteptare… (click în această cutie sau începeți să modificați)",
 	"ajax-se-idling": "(acum $1s)",
-	"ajax-se-pagedoesnotexist": "pagina nu există",
-	"ajax-se-usernotfound": "Eroare: utilizator negăsit"
+	"ajax-se-pagedoesnotexist": "pagina nu există"
 }

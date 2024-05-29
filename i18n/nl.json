@@ -11,7 +11,6 @@
 	"ajax-se-pending": "Deze pagina moet nog bijgewerkt worden. Klik op deze knop of begin met bewerken.",
 	"ajax-se-idling": "($1s geleden)",
 	"ajax-se-pagedoesnotexist": "pagina bestaat niet",
-	"ajax-se-usernotfound": "Fout: gebruiker niet gevonden",
 	"apihelp-ajaxshoweditors-summary": "Haal de lijst op van gebruikers die op dit moment de aangegeven pagina aan het bewerken zijn",
 	"apihelp-ajaxshoweditors-param-pageid": "Numerieke identificatiecode voor de pagina die wordt bewerkt",
 	"apihelp-ajaxshoweditors-param-username": "Naam van de gebruiker die de pagina op dit moment aan het bewerken is",

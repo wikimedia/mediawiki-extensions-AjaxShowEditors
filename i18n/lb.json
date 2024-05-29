@@ -11,6 +11,5 @@
 	"ajax-se-pending": "soll geännert ginn ... (klickt op dës Këscht oder fänkt u mat änneren)",
 	"ajax-se-idling": "(viru(n) $1 Sekonnen)",
 	"ajax-se-pagedoesnotexist": "d'Säit gëtt et net",
-	"ajax-se-usernotfound": "Feeler: Benotzer net fonnt",
 	"apihelp-ajaxshoweditors-param-username": "Numm vum Benotzer deen d'Säit elo ännert"
 }

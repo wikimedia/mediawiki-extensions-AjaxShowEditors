@@ -9,7 +9,6 @@
 	"ajax-se-pending": "pendente refrescamento… (clicca iste quadro o comencia a modificar)",
 	"ajax-se-idling": "($1s retro)",
 	"ajax-se-pagedoesnotexist": "pagina non existe",
-	"ajax-se-usernotfound": "Error: usator non trovate",
 	"apihelp-ajaxshoweditors-summary": "Obtener le lista de usatores que modifica presentemente le pagina specificate",
 	"apihelp-ajaxshoweditors-param-pageid": "Identificator numeric del pagina que es in curso de modification",
 	"apihelp-ajaxshoweditors-param-username": "Nomine del usator que modifica presentemente le pagina",

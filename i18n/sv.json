@@ -12,7 +12,6 @@
 	"ajax-se-pending": "avvaktar omläsning ... (klicka på denna ruta eller börja redigera)",
 	"ajax-se-idling": "($1s sedan)",
 	"ajax-se-pagedoesnotexist": "sidan existerar inte",
-	"ajax-se-usernotfound": "Fel: användaren hittades inte",
 	"apihelp-ajaxshoweditors-summary": "Hämta listan över användare som för tillfället redigerar den angivna sidan",
 	"apihelp-ajaxshoweditors-param-pageid": "Numerisk identifierare för sidan som redigeras",
 	"apihelp-ajaxshoweditors-param-username": "Namn på den nuvarande användaren som redigerar sidan",

@@ -10,6 +10,5 @@
 	"ajax-se-title": "Тренутно уређују:",
 	"ajax-se-pending": "чека се освежавање ... (кликните овде или почните са уређивањем)",
 	"ajax-se-idling": "(пре $1 сек)",
-	"ajax-se-pagedoesnotexist": "страница не постоји",
-	"ajax-se-usernotfound": "ГРЕШКА: корисник није пронађен"
+	"ajax-se-pagedoesnotexist": "страница не постоји"
 }

@@ -11,6 +11,5 @@
 	"ajax-se-title": "Actualment editant:",
 	"ajax-se-pending": "actualització pendent... (clic aquesta caixa o comenci a editar)",
 	"ajax-se-idling": "(fa $1s)",
-	"ajax-se-pagedoesnotexist": "la pàgina no existeix",
-	"ajax-se-usernotfound": "Error: no s'ha trobat l'usuari"
+	"ajax-se-pagedoesnotexist": "la pàgina no existeix"
 }

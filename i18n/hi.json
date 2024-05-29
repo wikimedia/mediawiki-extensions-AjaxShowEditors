@@ -10,7 +10,6 @@
 	"ajax-se-pending": "ताज़ा करना बाकी… (इस बक्से पर क्लिक करें या संपादन शुरू करें)",
 	"ajax-se-idling": "($1 सेकंड पहले)",
 	"ajax-se-pagedoesnotexist": "पृष्ठ मौजूद नहीं है",
-	"ajax-se-usernotfound": "त्रुटि: सदस्य नहीं मिला",
 	"apihelp-ajaxshoweditors-summary": "वर्तमान पृष्ठ को संपादित कर रहे सदस्यों की सूची पाएँ",
 	"apihelp-ajaxshoweditors-param-pageid": "वर्तमान में संपादित किए जा रहे पृष्ठ का संख्यात्मक पहचानकर्ता",
 	"apihelp-ajaxshoweditors-param-username": "वर्तमान सदस्य का नाम जो पृष्ठ को संपादित कर रहे हैं",

@@ -10,7 +10,6 @@
 	"ajax-se-pending": "osvežitev v teku ... (kliknite to polje ali začnite urejati)",
 	"ajax-se-idling": "(pred $1 s)",
 	"ajax-se-pagedoesnotexist": "stran ne obstaja",
-	"ajax-se-usernotfound": "Napaka: uporabnika ni mogoče najti",
 	"apihelp-ajaxshoweditors-summary": "Pridobite seznam uporabnikov, ki trenutno urejajo dano stran",
 	"apihelp-ajaxshoweditors-param-pageid": "Številski identifikator za stran, ki jo urejate",
 	"apihelp-ajaxshoweditors-param-username": "Ime trenutnega uporabnika, ki ureja stran",

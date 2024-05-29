@@ -12,6 +12,5 @@
 	"ajax-se-pending": "chờ làm mới... (nhấn vào hộp này hoặc bắt đầu sửa đổi)",
 	"ajax-se-idling": "($1 giây trước)",
 	"ajax-se-pagedoesnotexist": "trang không tồn tại",
-	"ajax-se-usernotfound": "LỖI: không tìm thấy người dùng",
 	"apihelp-ajaxshoweditors-param-username": "Tên của thành viên hiện tại mà đang sửa đổi trang này"
 }

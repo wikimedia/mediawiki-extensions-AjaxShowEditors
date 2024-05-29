@@ -9,6 +9,5 @@
 	"ajax-se-title": "Trenutno uređuju:",
 	"ajax-se-pending": "čeka se osvežavanje ... (kliknite ovde ili počnite sa uređivanjem)",
 	"ajax-se-idling": "(pre $1 sek)",
-	"ajax-se-pagedoesnotexist": "stranica ne postoji",
-	"ajax-se-usernotfound": "GREŠKA: korisnik nije pronađen"
+	"ajax-se-pagedoesnotexist": "stranica ne postoji"
 }

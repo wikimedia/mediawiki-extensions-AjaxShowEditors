@@ -8,6 +8,5 @@
 	"ajaxshoweditors-desc": "顯示正在編輯同一頁面的編輯中的用戶",
 	"ajax-se-title": "正在編輯：",
 	"ajax-se-pending": "重整請求中…（點擊此方塊或開始編輯）",
-	"ajax-se-idling": "（$1s 前）",
-	"ajax-se-usernotfound": "錯誤：用戶找不到"
+	"ajax-se-idling": "（$1s 前）"
 }

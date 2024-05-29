@@ -10,7 +10,6 @@
 	"ajax-se-pending": "во исчекување на превчитувањето… (кликнете ја кутијава за да започнете со уредувањето)",
 	"ajax-se-idling": "(пред $1s)",
 	"ajax-se-pagedoesnotexist": "страницата не постои",
-	"ajax-se-usernotfound": "Грешка: не е пронајден корисник",
 	"apihelp-ajaxshoweditors-summary": "Дава список на корисници кои тековно ја уредуваат дадената страница",
 	"apihelp-ajaxshoweditors-param-pageid": "Бројчена назнака на страницата која се уредува",
 	"apihelp-ajaxshoweditors-param-username": "Име на тековниот корисник кој ја уредува страницата",

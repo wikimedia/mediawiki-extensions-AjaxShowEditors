@@ -10,6 +10,5 @@
 	"ajax-se-title": "Právě edituje:",
 	"ajax-se-pending": "očekává se změna... (klikněte do tohoto pole nebo začněte editovat)",
 	"ajax-se-idling": "(před $1 s)",
-	"ajax-se-pagedoesnotexist": "stránka neexistuje",
-	"ajax-se-usernotfound": "CHYBA: uživatel nebly nalezen"
+	"ajax-se-pagedoesnotexist": "stránka neexistuje"
 }

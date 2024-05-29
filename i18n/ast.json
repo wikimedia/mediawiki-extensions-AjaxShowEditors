@@ -9,6 +9,5 @@
 	"ajax-se-title": "Editando actualmente:",
 	"ajax-se-pending": "refrescu pendiente ... (calca nesti caxellu o empecipia a editar)",
 	"ajax-se-idling": "(hai $1s)",
-	"ajax-se-pagedoesnotexist": "la páxina nun esiste",
-	"ajax-se-usernotfound": "Error: nun s'alcontró l'usuariu"
+	"ajax-se-pagedoesnotexist": "la páxina nun esiste"
 }

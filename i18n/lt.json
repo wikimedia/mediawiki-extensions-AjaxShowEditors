@@ -13,7 +13,6 @@
 	"ajax-se-pending": "laukiama atnaujinimo... (paspauskite šį laukelį arba pradėkite redaguoti)",
 	"ajax-se-idling": "(prieš $1 s)",
 	"ajax-se-pagedoesnotexist": "puslapis neegzistuoja",
-	"ajax-se-usernotfound": "ERR: naudotojas nerastas",
 	"apihelp-ajaxshoweditors-summary": "Gauti naudotojų, kurie šiuo metu redaguoja pateiktą puslapį, sąrašą",
 	"apihelp-ajaxshoweditors-param-pageid": "Skaitinis redaguojamo puslapio identifikatorius",
 	"apihelp-ajaxshoweditors-param-username": "Dabartinio naudotojo, kuris redaguoja puslapį, vardas",

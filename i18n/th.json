@@ -11,6 +11,5 @@
 	"ajax-se-pending": "กำลังรอโหลดใหม่… (คลิกกล่องนี้หรือเริ่มแก้ไข)",
 	"ajax-se-idling": "($1 วินาทีที่แล้ว)",
 	"ajax-se-pagedoesnotexist": "หน้าไม่มี",
-	"ajax-se-usernotfound": "ผิดพลาด: ไม่พบผู้ใช้",
 	"apihelp-ajaxshoweditors-param-username": "ชื่อของผู้ใช้ปัจจุบันที่กำลังแก้ไขหน้าอยู่"
 }

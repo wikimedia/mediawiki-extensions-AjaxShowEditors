@@ -9,7 +9,6 @@
 	"ajax-se-pending": "Avventer gjenoppfriskning … (klikk denne boksen eller start å redigere)",
 	"ajax-se-idling": "($1s siden)",
 	"ajax-se-pagedoesnotexist": "siden finnes ikke",
-	"ajax-se-usernotfound": "Feil: bruker ikke funnet",
 	"apihelp-ajaxshoweditors-summary": "Hent listen over brukere som redigerer den gitte siden",
 	"apihelp-ajaxshoweditors-param-pageid": "Numerisk identifikator for siden som redigeres",
 	"apihelp-ajaxshoweditors-param-username": "Navn på den nåværende brukeren som redigerer siden",

@@ -11,7 +11,6 @@
 	"ajax-se-pending": "正在正在刷新 ... （单击这个框或开始编辑）",
 	"ajax-se-idling": "（$1秒前）",
 	"ajax-se-pagedoesnotexist": "该页面不存在",
-	"ajax-se-usernotfound": "错误:该用户不存在",
 	"apihelp-ajaxshoweditors-summary": "获取目前正在编辑指定页面的用户列表",
 	"apihelp-ajaxshoweditors-param-pageid": "正在编辑页面的数字标识符",
 	"apihelp-ajaxshoweditors-param-username": "正在编辑该页面的用户名称",

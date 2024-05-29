@@ -12,7 +12,6 @@
 	"ajax-se-pending": "atualização pendente... (clique esta caixa ou comece a editar)",
 	"ajax-se-idling": "(há $1s)",
 	"ajax-se-pagedoesnotexist": "página não existe",
-	"ajax-se-usernotfound": "Erro: utilizador não encontrado",
 	"apihelp-ajaxshoweditors-summary": "Obter a lista de utilizadores que estão presentemente a editar a página especificada",
 	"apihelp-ajaxshoweditors-param-pageid": "Identificador numérico da página que está a ser editada",
 	"apihelp-ajaxshoweditors-param-username": "Nome do utilizador atual que está a editar a página",

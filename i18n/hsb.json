@@ -8,6 +8,5 @@
 	"ajax-se-title": "Wobdźěłuje so runje wot:",
 	"ajax-se-pending": "aktualizuje so ... (klikń do tutoho pola abo póčni wobdźěłować)",
 	"ajax-se-idling": "(před $1s)",
-	"ajax-se-pagedoesnotexist": "strona njeeksistuje",
-	"ajax-se-usernotfound": "ZMYLK: wužiwar njenamakany"
+	"ajax-se-pagedoesnotexist": "strona njeeksistuje"
 }

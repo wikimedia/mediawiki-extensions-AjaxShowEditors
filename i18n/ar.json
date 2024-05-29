@@ -12,7 +12,6 @@
 	"ajax-se-pending": "انتظار التحديث ... (اضغط على هذا الصندوق أو ابدأ في التحرير)",
 	"ajax-se-idling": "(منذ $1ث)",
 	"ajax-se-pagedoesnotexist": "الصفحة غير موجودة",
-	"ajax-se-usernotfound": "خطأ: المستخدم غير موجود",
 	"apihelp-ajaxshoweditors-summary": "احصل على قائمة المستخدمين الذين يقومون حاليًا بتعديل الصفحة المحددة",
 	"apihelp-ajaxshoweditors-param-pageid": "معرّف رقمي للصفحة التي يجري تحريرها",
 	"apihelp-ajaxshoweditors-param-username": "اسم المستخدم الحالي الذي يقوم بتحرير الصفحة",

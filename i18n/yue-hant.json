@@ -8,6 +8,5 @@
 	"ajax-se-title": "而家編輯緊:",
 	"ajax-se-pending": "而家重新整理緊 ... (撳一下呢個盒或者開始編輯)",
 	"ajax-se-idling": "($1秒前)",
-	"ajax-se-pagedoesnotexist": "頁唔存在",
-	"ajax-se-usernotfound": "錯誤: 搵唔到用戶"
+	"ajax-se-pagedoesnotexist": "頁唔存在"
 }

@@ -8,6 +8,5 @@
 	"ajax-se-title": "Orain editatzen:",
 	"ajax-se-pending": "berritzea falta da... (egin klik kutxa honetan edo hasi editatzen)",
 	"ajax-se-idling": "(orain dela $1s)",
-	"ajax-se-pagedoesnotexist": "orrialdea ez da existitzen",
-	"ajax-se-usernotfound": "Akatsa: lankidea ez da aurkitu"
+	"ajax-se-pagedoesnotexist": "orrialdea ez da existitzen"
 }

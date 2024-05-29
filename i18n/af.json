@@ -11,6 +11,5 @@
 	"ajax-se-title": "Op dit oomblik besig om te wysig:",
 	"ajax-se-pending": "moet nog bygewerk word… (klik hier of begin met wysigings)",
 	"ajax-se-idling": "($1s gelede)",
-	"ajax-se-pagedoesnotexist": "bladsy bestaan nie",
-	"ajax-se-usernotfound": "FOUT: gebruiker nie gevind"
+	"ajax-se-pagedoesnotexist": "bladsy bestaan nie"
 }

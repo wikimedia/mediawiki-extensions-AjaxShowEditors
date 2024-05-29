@@ -12,7 +12,6 @@
 	"ajax-se-pending": "yenileme bekleniyor... (bu kutuya tıklayın veya düzenlemeye başlayın)",
 	"ajax-se-idling": "($1s önce)",
 	"ajax-se-pagedoesnotexist": "sayfa mevcut değil",
-	"ajax-se-usernotfound": "Hata: kullanıcı bulunamadı",
 	"apihelp-ajaxshoweditors-summary": "Şu anda belirtilen sayfayı düzenleyen kullanıcıların listesini alın",
 	"apihelp-ajaxshoweditors-param-pageid": "Düzenlenmekte olan sayfa için sayısal tanımlayıcı",
 	"apihelp-ajaxshoweditors-param-username": "Sayfayı düzenleyen mevcut kullanıcının adı",

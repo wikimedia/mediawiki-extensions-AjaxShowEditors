@@ -12,7 +12,6 @@
 	"ajax-se-pending": "чаканьне абнаўленьня... (націсьніце тут альбо пачніце рэдагаваньне)",
 	"ajax-se-idling": "($1 таму)",
 	"ajax-se-pagedoesnotexist": "старонка не існуе",
-	"ajax-se-usernotfound": "Памылка: удзельнік ня знойдзены",
 	"apihelp-ajaxshoweditors-summary": "Атрымаць сьпіс карыстачоў, якія ў дадзены момэнт рэдагуюць дадзеную старонку",
 	"apihelp-ajaxshoweditors-param-pageid": "Лікавы ідэнтыфікатар рэдагуемай старонкі",
 	"apihelp-ajaxshoweditors-param-username": "Імя бягучага карыстача, які рэдагуе старонку",

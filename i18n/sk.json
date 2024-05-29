@@ -8,6 +8,5 @@
 	"ajax-se-title": "Práve upravuje:",
 	"ajax-se-pending": "čaká sa na obnovenie... (kliknite do tohto poľa alebo začnite upravovať)",
 	"ajax-se-idling": "(pred $1 sek)",
-	"ajax-se-pagedoesnotexist": "stránka neexistuje",
-	"ajax-se-usernotfound": "CHYBA: používateľ nebol nájdený"
+	"ajax-se-pagedoesnotexist": "stránka neexistuje"
 }

@@ -8,6 +8,5 @@
 	"ajax-se-title": "Drio modifegar:",
 	"ajax-se-pending": "son drio ajornar... (maca su sta casèla o intaca la modìfegaa)",
 	"ajax-se-idling": "(da $1 secondi)",
-	"ajax-se-pagedoesnotexist": "La pàxena no la esiste",
-	"ajax-se-usernotfound": "Eròr: utente mia catà"
+	"ajax-se-pagedoesnotexist": "La pàxena no la esiste"
 }

@@ -10,7 +10,6 @@
 	"ajax-se-pending": "בהמתנה לרענון… (לחצו על תיבה זו כדי להתחיל בעריכה)",
 	"ajax-se-idling": "(לפני $1 שניות)",
 	"ajax-se-pagedoesnotexist": "הדף אינו קיים",
-	"ajax-se-usernotfound": "שגיאה: המשתמש לא נמצא",
 	"apihelp-ajaxshoweditors-summary": "קבלת רשימת המשתמש שעורכים כרגע דף מסוים",
 	"apihelp-ajaxshoweditors-param-pageid": "מזהה מספרי של הדף שנערך",
 	"apihelp-ajaxshoweditors-param-username": "שם המשתמש הנוכחי שעורך את הדף",

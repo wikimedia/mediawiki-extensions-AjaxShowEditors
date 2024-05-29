@@ -10,7 +10,6 @@
 	"ajax-se-pending": "atendas por refreŝigo ... (klaku ĉi tiun skatolon aŭ ekredaktu)",
 	"ajax-se-idling": "(antaŭ $1s)",
 	"ajax-se-pagedoesnotexist": "paĝo ne ekzistas",
-	"ajax-se-usernotfound": "Eraro: Uzanto ne estas trovita",
 	"apihelp-ajaxshoweditors-summary": "Akiru la liston de uzantoj, kiuj nuntempe redaktas la donitan paĝon",
 	"apihelp-ajaxshoweditors-param-username": "Nomo de la nuna uzanto, kiu redaktas la paĝon",
 	"apihelp-ajaxshoweditors-example-1": "Akiru la liston de uzantoj (kiel HTML), kiuj redaktas la paĝon kun la ID-o #666"

@@ -9,6 +9,5 @@
 	"ajax-se-title": "Redigere lige nu:",
 	"ajax-se-pending": "afventer genindlæsning… (klik på denne boks eller påbegynd redigering)",
 	"ajax-se-idling": "($1s siden)",
-	"ajax-se-pagedoesnotexist": "Siden eksister ikke",
-	"ajax-se-usernotfound": "Fejl: bruger ikke fundet"
+	"ajax-se-pagedoesnotexist": "Siden eksister ikke"
 }

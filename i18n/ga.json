@@ -9,6 +9,5 @@
 	"ajax-se-title": "Ag cur in eagar láithreach:",
 	"ajax-se-pending": "Athnuachan ar feitheamh… (clic an bosca seo nó lean ag cur in eagar)",
 	"ajax-se-idling": "($1 soic. ó shin)",
-	"ajax-se-pagedoesnotexist": "níl an leathanach ann",
-	"ajax-se-usernotfound": "Earráid: ní bhfuarthas an úsáideoir"
+	"ajax-se-pagedoesnotexist": "níl an leathanach ann"
 }

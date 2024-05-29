@@ -13,6 +13,5 @@
 	"ajax-se-pending": "odotetaan päivitystä… (napsauta tästä tai aloita muokkaaminen)",
 	"ajax-se-idling": "($1 s sitten)",
 	"ajax-se-pagedoesnotexist": "sivua ei ole",
-	"ajax-se-usernotfound": "Virhe: käyttäjää ei löydy",
 	"apihelp-ajaxshoweditors-summary": "Hanki luettelo käyttäjistä, jotka muokkaavat parhaillaan kyseistä sivua"
 }
