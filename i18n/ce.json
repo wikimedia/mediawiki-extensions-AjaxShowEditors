@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Исмаил Садуев",
 			"Умар"
 		]
 	},
@@ -11,5 +12,5 @@
 	"ajax-se-pagedoesnotexist": "агӀо йац",
 	"apihelp-ajaxshoweditors-summary": "ХӀинца кху агӀонна хийцамаш беш болу декъашхойн могӀам схьаэца",
 	"apihelp-ajaxshoweditors-param-pageid": "Тайеш йолу агӀонан терахьан идентификатор",
-	"apihelp-ajaxshoweditors-param-username": "АгӀонан хийцамаш бечу декъашхочун цӀе"
+	"apihelp-ajaxshoweditors-param-username": "АгӀо нисйеш волчу декъахочун цӀе"
 }
