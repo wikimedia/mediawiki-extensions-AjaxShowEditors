@@ -32,7 +32,7 @@ class AjaxShowEditors {
 		// if we have multiple IP addresses trying to edit the page at the same time?
 		if ( $user && $user instanceof User ) {
 			// When did the user start editing?
-			$dbr = wfGetDB( DB_REPLICA );
+			$dbr = MediaWikiServices::getInstance()->getDBLoadBalancer()->getConnection( DB_REPLICA );
 			$userStarted = $dbr->selectField(
 				'editings',
 				'editings_started',
@@ -52,7 +52,7 @@ class AjaxShowEditors {
 			# This is done using a unique index on the database :
 			# `editings_page_started` (`editings_page`,`editings_actor`,`editings_started`)
 
-			$dbw = wfGetDB( DB_PRIMARY );
+			$dbw = MediaWikiServices::getInstance()->getDBLoadBalancer()->getConnection( DB_PRIMARY );
 			$dbw->replace(
 				'editings',
 				[ [ 'editings_page', 'editings_actor', 'editings_started' ] ],
@@ -67,7 +67,7 @@ class AjaxShowEditors {
 		}
 
 		// Now we get the list of all editing users
-		$dbr = wfGetDB( DB_REPLICA );
+		$dbr = MediaWikiServices::getInstance()->getDBLoadBalancer()->getConnection( DB_REPLICA );
 		$res = $dbr->select(
 			'editings',
 			[ 'editings_actor', 'editings_started', 'editings_touched' ],
