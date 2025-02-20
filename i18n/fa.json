@@ -4,12 +4,13 @@
 			"Huji",
 			"Jeeputer",
 			"Mardetanha",
-			"Sahim"
+			"Sahim",
+			"Ebrahim"
 		]
 	},
 	"ajaxshoweditors-desc": "ویرایش‌های کاربرانی که در حال ویرایش صفحه‌های یکسان هستند را نمایش می‌دهد",
 	"ajax-se-title": "در حال ویرایش:",
-	"ajax-se-pending": "در انتظار بازیابی... (این جعبه را انتخاب کنید یا اینکه ویرایش‌کردن را شروع کنید)",
+	"ajax-se-pending": "در انتظار بازیابی… (این جعبه را انتخاب کنید یا اینکه ویرایش کردن را شروع کنید)",
 	"ajax-se-idling": "(ثانیه قبل$1)",
 	"ajax-se-pagedoesnotexist": "صفحه وجود ندارد",
 	"ajax-se-usernotfound": "خطا: کاربر یافت نشد",
