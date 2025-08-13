@@ -2,15 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Winston Sung",
-			"JeffreyKim"
+			"JeffreyKim",
+			"Ktchankt"
 		]
 	},
-	"ajaxshoweditors-desc": "顯示編輯緊同一頁面嘅編輯使用者",
+	"ajaxshoweditors-desc": "顯示編輯緊同一頁面嘅編輯用戶",
 	"ajax-se-title": "而家編輯緊:",
 	"ajax-se-pending": "而家重新整理緊 ... (撳一下呢個盒或者開始編輯)",
 	"ajax-se-idling": "($1秒前)",
 	"ajax-se-pagedoesnotexist": "頁唔存在",
-	"apihelp-ajaxshoweditors-summary": "攞到而家編輯緊特定頁面嘅使用者清單",
+	"apihelp-ajaxshoweditors-summary": "攞到而家編輯緊特定頁面嘅用戶清單",
 	"apihelp-ajaxshoweditors-param-pageid": "編輯緊嘅頁面嘅數字識別碼",
 	"apihelp-ajaxshoweditors-param-username": "而家編輯緊頁面嘅用戶名",
 	"apihelp-ajaxshoweditors-example-1": "攞到編輯緊 ID #666嘅頁面嘅用戶清單（以 HTML 形式）"
