@@ -1,9 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"شاه زمان پټان"
 		]
 	},
+	"ajaxshoweditors-desc": "هغه کارنان ښيي چې ورته(يو) مخ سموي",
+	"ajax-se-title": "وس‌مهاله سمون:",
+	"ajax-se-pending": "د تاندولو په تمه...(په دې بکس کليک وکړئ يا سمون پيل کړئ)",
 	"ajax-se-idling": "($1 پخوا)",
-	"ajax-se-pagedoesnotexist": "دا مخ لا تر اوسه پورې نشته"
+	"ajax-se-pagedoesnotexist": "دا مخ لا تر اوسه پورې نشته",
+	"apihelp-ajaxshoweditors-summary": "د هغه کارنانو نوملړ ترلاسه کړئ چې وسمهال ورکړل شوی مخ سموي",
+	"apihelp-ajaxshoweditors-param-pageid": "د هغه مخ لپاره شمېرپېژند چې سمېږي",
+	"apihelp-ajaxshoweditors-param-username": "د وسمهاله کارن نوم چې مخ سموي",
+	"apihelp-ajaxshoweditors-example-1": "د هغه کارنانو نوملړ ترلاسه‌کول (د اېچ‌ټي‌اېم‌اېل په توگه) چې هغه مخ سموي چې #666 پېژند لري"
 }
