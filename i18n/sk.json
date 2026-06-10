@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Helix84"
+			"Helix84",
+			"Wizzard"
 		]
 	},
 	"ajaxshoweditors-desc": "Zobrazuje používateľov, ktorí upravujú rovnakú stránku",
