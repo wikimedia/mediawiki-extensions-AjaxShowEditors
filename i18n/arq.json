@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bachounda"
+		]
+	},
+	"ajaxshoweditors-desc": "يورّي المستخدمين اللي يحرّرو نفس الصفحة.",
+	"ajax-se-title": "راه يحرّر حاليا:",
+	"ajax-se-pending": "في انتظار التحديث… (انقر هاد الصندوق ولا ابدا التحرير)",
+	"ajax-se-idling": "(منذ $1 ثانية)",
+	"ajax-se-pagedoesnotexist": "الصفحة ماشي موجودة",
+	"apihelp-ajaxshoweditors-summary": "جيب قايمه المستخدمين لي راهُم يحرّرو الصفحه المعطاه حاليا",
+	"apihelp-ajaxshoweditors-param-pageid": "الرقم التعريفي للصفحة اللي راهي تتحرر.",
+	"apihelp-ajaxshoweditors-param-username": "سمية المستخدم الحالي اللي راه يحرر الصفحه.",
+	"apihelp-ajaxshoweditors-example-1": "جيب القايمة د المستخدمين (على شكل HTML) اللي راهم يحررو الصفحة اللي رقمها #666."
+}
