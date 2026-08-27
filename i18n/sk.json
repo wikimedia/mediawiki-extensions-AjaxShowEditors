@@ -9,5 +9,9 @@
 	"ajax-se-title": "Práve upravuje:",
 	"ajax-se-pending": "čaká sa na obnovenie... (kliknite do tohto poľa alebo začnite upravovať)",
 	"ajax-se-idling": "(pred $1 sek)",
-	"ajax-se-pagedoesnotexist": "stránka neexistuje"
+	"ajax-se-pagedoesnotexist": "stránka neexistuje",
+	"apihelp-ajaxshoweditors-summary": "Získať zoznam používateľov, ktorí práve upravujú danú stránku",
+	"apihelp-ajaxshoweditors-param-pageid": "Číselný identifikátor stránky, ktorá sa upravuje",
+	"apihelp-ajaxshoweditors-param-username": "Meno aktuálneho používateľa, ktorý upravuje stránku",
+	"apihelp-ajaxshoweditors-example-1": "Získať zoznam používateľov (ako HTML), ktorí upravujú stránku s ID #666"
 }
