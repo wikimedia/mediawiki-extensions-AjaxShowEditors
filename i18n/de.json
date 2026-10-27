@@ -10,7 +10,7 @@
 	},
 	"ajaxshoweditors-desc": "Ermöglicht die Anzeige der Benutzer, die momentan dieselbe Seite bearbeiten",
 	"ajax-se-title": "Wird zurzeit bearbeitet von:",
-	"ajax-se-pending": "Die Aktualisierung steht aus … Klicke auf diesen Kasten oder beginne mit dem Bearbeiten.",
+	"ajax-se-pending": "Die Aktualisierung steht aus … {{#FORMAL:Klicke|Klicken Sie}} auf diesen Kasten oder {{#FORMAL:beginne|beginnen Sie}} mit dem Bearbeiten.",
 	"ajax-se-idling": "(vor $1 Sekunden)",
 	"ajax-se-pagedoesnotexist": "Die Seite ist nicht vorhanden.",
 	"apihelp-ajaxshoweditors-summary": "Abrufen der Liste der Benutzer, die derzeit die angegebene Seite bearbeiten",
